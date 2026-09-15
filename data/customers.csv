@@ -1,0 +1,4001 @@
+customer_id,region,customer_segment
+20001,Central,Small Business
+20002,West,Consumer
+20003,North,Small Business
+20004,South,Consumer
+20005,West,Small Business
+20006,East,Consumer
+20007,West,Consumer
+20008,Central,Consumer
+20009,Central,Consumer
+20010,East,Small Business
+20011,Central,Consumer
+20012,Central,Corporate
+20013,East,Consumer
+20014,North,Consumer
+20015,Central,Consumer
+20016,South,Consumer
+20017,North,Consumer
+20018,North,Consumer
+20019,South,Consumer
+20020,East,Consumer
+20021,Central,Consumer
+20022,Central,Consumer
+20023,West,Small Business
+20024,Central,Consumer
+20025,East,Consumer
+20026,Central,Corporate
+20027,South,Small Business
+20028,Central,Consumer
+20029,Central,Consumer
+20030,South,Consumer
+20031,East,Consumer
+20032,North,Consumer
+20033,East,Consumer
+20034,Central,Corporate
+20035,Central,Corporate
+20036,West,Consumer
+20037,West,Small Business
+20038,Central,Consumer
+20039,Central,Small Business
+20040,West,Corporate
+20041,Central,Small Business
+20042,South,Small Business
+20043,East,Small Business
+20044,South,Consumer
+20045,East,Consumer
+20046,Central,Small Business
+20047,North,Consumer
+20048,Central,Consumer
+20049,North,Small Business
+20050,West,Consumer
+20051,East,Consumer
+20052,Central,Consumer
+20053,North,Consumer
+20054,North,Small Business
+20055,Central,Consumer
+20056,Central,Small Business
+20057,West,Consumer
+20058,East,Consumer
+20059,Central,Consumer
+20060,East,Small Business
+20061,West,Consumer
+20062,Central,Consumer
+20063,South,Consumer
+20064,North,Consumer
+20065,Central,Small Business
+20066,Central,Consumer
+20067,South,Consumer
+20068,Central,Consumer
+20069,West,Consumer
+20070,West,Consumer
+20071,South,Consumer
+20072,South,Corporate
+20073,South,Consumer
+20074,East,Consumer
+20075,South,Consumer
+20076,Central,Consumer
+20077,West,Consumer
+20078,Central,Consumer
+20079,East,Consumer
+20080,North,Consumer
+20081,Central,Consumer
+20082,Central,Consumer
+20083,Central,Consumer
+20084,South,Corporate
+20085,Central,Consumer
+20086,East,Consumer
+20087,South,Corporate
+20088,West,Corporate
+20089,Central,Small Business
+20090,North,Consumer
+20091,North,Small Business
+20092,West,Corporate
+20093,South,Consumer
+20094,Central,Consumer
+20095,West,Consumer
+20096,West,Consumer
+20097,North,Consumer
+20098,East,Consumer
+20099,Central,Small Business
+20100,South,Consumer
+20101,West,Consumer
+20102,West,Consumer
+20103,South,Consumer
+20104,Central,Corporate
+20105,Central,Corporate
+20106,West,Corporate
+20107,North,Consumer
+20108,North,Consumer
+20109,North,Consumer
+20110,Central,Corporate
+20111,South,Small Business
+20112,North,Consumer
+20113,Central,Consumer
+20114,East,Consumer
+20115,South,Consumer
+20116,Central,Consumer
+20117,West,Consumer
+20118,West,Small Business
+20119,Central,Consumer
+20120,East,Consumer
+20121,South,Consumer
+20122,Central,Consumer
+20123,West,Small Business
+20124,South,Consumer
+20125,East,Consumer
+20126,East,Corporate
+20127,South,Consumer
+20128,South,Small Business
+20129,Central,Consumer
+20130,West,Consumer
+20131,West,Consumer
+20132,East,Small Business
+20133,Central,Consumer
+20134,South,Consumer
+20135,East,Small Business
+20136,West,Small Business
+20137,Central,Small Business
+20138,Central,Consumer
+20139,East,Consumer
+20140,South,Consumer
+20141,West,Consumer
+20142,Central,Corporate
+20143,South,Consumer
+20144,East,Consumer
+20145,South,Consumer
+20146,North,Corporate
+20147,Central,Consumer
+20148,Central,Corporate
+20149,Central,Corporate
+20150,North,Consumer
+20151,South,Consumer
+20152,East,Small Business
+20153,East,Consumer
+20154,Central,Corporate
+20155,Central,Consumer
+20156,Central,Small Business
+20157,North,Small Business
+20158,West,Consumer
+20159,North,Consumer
+20160,West,Small Business
+20161,Central,Small Business
+20162,South,Consumer
+20163,East,Consumer
+20164,Central,Small Business
+20165,East,Consumer
+20166,West,Consumer
+20167,Central,Consumer
+20168,North,Corporate
+20169,Central,Small Business
+20170,West,Consumer
+20171,South,Consumer
+20172,Central,Consumer
+20173,South,Corporate
+20174,East,Consumer
+20175,East,Consumer
+20176,West,Small Business
+20177,Central,Small Business
+20178,North,Consumer
+20179,South,Consumer
+20180,Central,Consumer
+20181,East,Consumer
+20182,West,Consumer
+20183,Central,Small Business
+20184,East,Consumer
+20185,West,Small Business
+20186,West,Small Business
+20187,South,Consumer
+20188,East,Corporate
+20189,East,Consumer
+20190,East,Consumer
+20191,East,Consumer
+20192,South,Small Business
+20193,East,Small Business
+20194,North,Consumer
+20195,Central,Consumer
+20196,South,Consumer
+20197,Central,Corporate
+20198,Central,Consumer
+20199,South,Consumer
+20200,Central,Consumer
+20201,Central,Consumer
+20202,Central,Consumer
+20203,South,Consumer
+20204,South,Consumer
+20205,Central,Consumer
+20206,West,Consumer
+20207,Central,Corporate
+20208,West,Consumer
+20209,Central,Small Business
+20210,Central,Consumer
+20211,North,Corporate
+20212,East,Small Business
+20213,West,Corporate
+20214,West,Small Business
+20215,Central,Small Business
+20216,Central,Consumer
+20217,West,Small Business
+20218,West,Consumer
+20219,North,Consumer
+20220,East,Consumer
+20221,East,Small Business
+20222,Central,Consumer
+20223,Central,Corporate
+20224,East,Consumer
+20225,West,Small Business
+20226,Central,Consumer
+20227,East,Small Business
+20228,South,Corporate
+20229,South,Small Business
+20230,West,Corporate
+20231,Central,Small Business
+20232,North,Consumer
+20233,North,Consumer
+20234,North,Consumer
+20235,Central,Consumer
+20236,North,Consumer
+20237,Central,Consumer
+20238,South,Consumer
+20239,East,Small Business
+20240,West,Consumer
+20241,North,Corporate
+20242,South,Consumer
+20243,South,Consumer
+20244,East,Corporate
+20245,East,Corporate
+20246,West,Consumer
+20247,North,Corporate
+20248,Central,Small Business
+20249,Central,Consumer
+20250,Central,Small Business
+20251,North,Consumer
+20252,Central,Consumer
+20253,West,Consumer
+20254,Central,Consumer
+20255,West,Consumer
+20256,Central,Small Business
+20257,East,Consumer
+20258,Central,Small Business
+20259,Central,Consumer
+20260,West,Consumer
+20261,South,Small Business
+20262,Central,Small Business
+20263,East,Consumer
+20264,West,Small Business
+20265,South,Consumer
+20266,West,Small Business
+20267,South,Small Business
+20268,Central,Corporate
+20269,East,Consumer
+20270,West,Consumer
+20271,South,Corporate
+20272,South,Consumer
+20273,West,Consumer
+20274,Central,Corporate
+20275,East,Small Business
+20276,East,Consumer
+20277,North,Consumer
+20278,South,Consumer
+20279,West,Small Business
+20280,West,Corporate
+20281,West,Consumer
+20282,West,Consumer
+20283,West,Small Business
+20284,Central,Corporate
+20285,South,Small Business
+20286,East,Small Business
+20287,West,Consumer
+20288,West,Consumer
+20289,North,Consumer
+20290,South,Consumer
+20291,Central,Consumer
+20292,West,Consumer
+20293,South,Consumer
+20294,East,Small Business
+20295,South,Small Business
+20296,South,Consumer
+20297,South,Corporate
+20298,East,Consumer
+20299,South,Small Business
+20300,North,Small Business
+20301,Central,Consumer
+20302,East,Corporate
+20303,West,Small Business
+20304,Central,Consumer
+20305,Central,Consumer
+20306,South,Corporate
+20307,West,Corporate
+20308,Central,Small Business
+20309,Central,Consumer
+20310,South,Consumer
+20311,Central,Consumer
+20312,South,Small Business
+20313,East,Small Business
+20314,South,Consumer
+20315,Central,Consumer
+20316,South,Small Business
+20317,Central,Corporate
+20318,West,Small Business
+20319,South,Consumer
+20320,North,Small Business
+20321,South,Small Business
+20322,Central,Small Business
+20323,Central,Corporate
+20324,North,Consumer
+20325,South,Consumer
+20326,South,Small Business
+20327,Central,Corporate
+20328,East,Small Business
+20329,Central,Consumer
+20330,East,Consumer
+20331,North,Small Business
+20332,South,Consumer
+20333,South,Corporate
+20334,West,Consumer
+20335,Central,Small Business
+20336,West,Consumer
+20337,North,Consumer
+20338,West,Consumer
+20339,South,Consumer
+20340,West,Consumer
+20341,East,Small Business
+20342,North,Corporate
+20343,Central,Consumer
+20344,Central,Corporate
+20345,North,Corporate
+20346,South,Consumer
+20347,West,Consumer
+20348,South,Small Business
+20349,Central,Consumer
+20350,South,Small Business
+20351,West,Small Business
+20352,West,Consumer
+20353,South,Consumer
+20354,Central,Consumer
+20355,North,Small Business
+20356,Central,Consumer
+20357,West,Consumer
+20358,North,Consumer
+20359,Central,Small Business
+20360,Central,Consumer
+20361,Central,Small Business
+20362,West,Small Business
+20363,Central,Small Business
+20364,North,Corporate
+20365,South,Consumer
+20366,West,Consumer
+20367,East,Consumer
+20368,Central,Consumer
+20369,Central,Consumer
+20370,West,Corporate
+20371,South,Corporate
+20372,North,Consumer
+20373,West,Corporate
+20374,East,Consumer
+20375,Central,Consumer
+20376,South,Small Business
+20377,South,Consumer
+20378,South,Small Business
+20379,South,Corporate
+20380,East,Consumer
+20381,Central,Corporate
+20382,East,Consumer
+20383,West,Consumer
+20384,East,Consumer
+20385,West,Corporate
+20386,West,Consumer
+20387,Central,Small Business
+20388,South,Corporate
+20389,Central,Small Business
+20390,Central,Consumer
+20391,North,Small Business
+20392,East,Consumer
+20393,East,Consumer
+20394,West,Corporate
+20395,Central,Consumer
+20396,North,Small Business
+20397,Central,Small Business
+20398,East,Consumer
+20399,Central,Small Business
+20400,South,Consumer
+20401,South,Consumer
+20402,Central,Small Business
+20403,South,Consumer
+20404,Central,Small Business
+20405,Central,Consumer
+20406,Central,Consumer
+20407,South,Small Business
+20408,East,Small Business
+20409,North,Consumer
+20410,South,Consumer
+20411,North,Consumer
+20412,Central,Consumer
+20413,South,Corporate
+20414,Central,Small Business
+20415,West,Consumer
+20416,East,Consumer
+20417,North,Consumer
+20418,West,Consumer
+20419,Central,Small Business
+20420,South,Consumer
+20421,South,Consumer
+20422,West,Consumer
+20423,West,Consumer
+20424,Central,Consumer
+20425,West,Consumer
+20426,West,Consumer
+20427,South,Consumer
+20428,South,Consumer
+20429,West,Consumer
+20430,North,Consumer
+20431,South,Corporate
+20432,West,Small Business
+20433,Central,Small Business
+20434,Central,Consumer
+20435,Central,Consumer
+20436,North,Consumer
+20437,East,Consumer
+20438,East,Consumer
+20439,South,Small Business
+20440,Central,Consumer
+20441,Central,Small Business
+20442,Central,Consumer
+20443,North,Consumer
+20444,West,Small Business
+20445,East,Small Business
+20446,Central,Corporate
+20447,Central,Consumer
+20448,Central,Consumer
+20449,South,Small Business
+20450,Central,Consumer
+20451,West,Consumer
+20452,South,Corporate
+20453,West,Consumer
+20454,East,Consumer
+20455,West,Consumer
+20456,West,Corporate
+20457,West,Small Business
+20458,Central,Small Business
+20459,Central,Consumer
+20460,East,Consumer
+20461,North,Consumer
+20462,South,Corporate
+20463,Central,Corporate
+20464,Central,Small Business
+20465,North,Small Business
+20466,South,Consumer
+20467,East,Consumer
+20468,Central,Small Business
+20469,North,Consumer
+20470,East,Consumer
+20471,West,Consumer
+20472,Central,Consumer
+20473,East,Consumer
+20474,Central,Consumer
+20475,South,Consumer
+20476,East,Small Business
+20477,Central,Corporate
+20478,South,Consumer
+20479,North,Consumer
+20480,North,Consumer
+20481,Central,Consumer
+20482,East,Small Business
+20483,Central,Small Business
+20484,Central,Consumer
+20485,Central,Corporate
+20486,Central,Consumer
+20487,South,Consumer
+20488,Central,Consumer
+20489,East,Small Business
+20490,West,Consumer
+20491,South,Consumer
+20492,Central,Consumer
+20493,East,Consumer
+20494,Central,Small Business
+20495,East,Small Business
+20496,Central,Consumer
+20497,West,Small Business
+20498,West,Consumer
+20499,South,Small Business
+20500,Central,Small Business
+20501,Central,Consumer
+20502,North,Small Business
+20503,East,Consumer
+20504,Central,Small Business
+20505,South,Consumer
+20506,Central,Consumer
+20507,Central,Consumer
+20508,Central,Consumer
+20509,East,Consumer
+20510,South,Consumer
+20511,West,Consumer
+20512,West,Consumer
+20513,Central,Consumer
+20514,North,Small Business
+20515,East,Small Business
+20516,West,Consumer
+20517,West,Corporate
+20518,South,Consumer
+20519,Central,Consumer
+20520,North,Small Business
+20521,Central,Consumer
+20522,West,Consumer
+20523,Central,Small Business
+20524,North,Small Business
+20525,Central,Consumer
+20526,East,Consumer
+20527,Central,Corporate
+20528,North,Consumer
+20529,North,Consumer
+20530,Central,Consumer
+20531,West,Consumer
+20532,Central,Consumer
+20533,Central,Consumer
+20534,West,Consumer
+20535,North,Corporate
+20536,South,Corporate
+20537,West,Consumer
+20538,North,Small Business
+20539,North,Consumer
+20540,Central,Consumer
+20541,Central,Small Business
+20542,West,Consumer
+20543,North,Consumer
+20544,Central,Consumer
+20545,East,Small Business
+20546,North,Small Business
+20547,Central,Small Business
+20548,North,Consumer
+20549,West,Consumer
+20550,Central,Consumer
+20551,Central,Consumer
+20552,East,Small Business
+20553,South,Small Business
+20554,South,Consumer
+20555,West,Corporate
+20556,Central,Consumer
+20557,South,Consumer
+20558,Central,Consumer
+20559,Central,Corporate
+20560,Central,Small Business
+20561,Central,Consumer
+20562,West,Consumer
+20563,North,Small Business
+20564,Central,Consumer
+20565,East,Consumer
+20566,North,Small Business
+20567,Central,Consumer
+20568,North,Consumer
+20569,Central,Consumer
+20570,North,Consumer
+20571,North,Corporate
+20572,East,Consumer
+20573,South,Consumer
+20574,South,Consumer
+20575,East,Consumer
+20576,Central,Consumer
+20577,South,Small Business
+20578,South,Consumer
+20579,South,Consumer
+20580,Central,Corporate
+20581,Central,Consumer
+20582,Central,Consumer
+20583,Central,Consumer
+20584,South,Small Business
+20585,West,Consumer
+20586,West,Corporate
+20587,East,Consumer
+20588,East,Consumer
+20589,Central,Consumer
+20590,West,Corporate
+20591,West,Consumer
+20592,Central,Consumer
+20593,South,Consumer
+20594,West,Consumer
+20595,North,Consumer
+20596,North,Consumer
+20597,South,Consumer
+20598,Central,Consumer
+20599,Central,Consumer
+20600,Central,Consumer
+20601,North,Consumer
+20602,North,Consumer
+20603,East,Consumer
+20604,East,Consumer
+20605,North,Consumer
+20606,East,Small Business
+20607,Central,Small Business
+20608,Central,Small Business
+20609,South,Consumer
+20610,North,Corporate
+20611,South,Small Business
+20612,Central,Corporate
+20613,West,Consumer
+20614,Central,Consumer
+20615,Central,Corporate
+20616,East,Corporate
+20617,East,Consumer
+20618,North,Small Business
+20619,North,Consumer
+20620,West,Consumer
+20621,West,Corporate
+20622,Central,Consumer
+20623,North,Consumer
+20624,South,Corporate
+20625,South,Small Business
+20626,Central,Consumer
+20627,South,Small Business
+20628,South,Consumer
+20629,West,Consumer
+20630,South,Consumer
+20631,Central,Consumer
+20632,Central,Consumer
+20633,South,Small Business
+20634,North,Small Business
+20635,South,Small Business
+20636,Central,Small Business
+20637,Central,Small Business
+20638,Central,Corporate
+20639,South,Consumer
+20640,Central,Small Business
+20641,Central,Consumer
+20642,West,Corporate
+20643,West,Small Business
+20644,North,Consumer
+20645,South,Small Business
+20646,Central,Consumer
+20647,West,Consumer
+20648,Central,Consumer
+20649,Central,Small Business
+20650,Central,Consumer
+20651,Central,Small Business
+20652,West,Consumer
+20653,Central,Consumer
+20654,South,Consumer
+20655,West,Consumer
+20656,Central,Consumer
+20657,South,Corporate
+20658,North,Consumer
+20659,West,Small Business
+20660,East,Consumer
+20661,Central,Consumer
+20662,Central,Small Business
+20663,South,Consumer
+20664,East,Corporate
+20665,East,Consumer
+20666,East,Consumer
+20667,West,Corporate
+20668,Central,Consumer
+20669,West,Corporate
+20670,Central,Small Business
+20671,South,Consumer
+20672,South,Consumer
+20673,South,Consumer
+20674,Central,Corporate
+20675,West,Small Business
+20676,Central,Consumer
+20677,East,Small Business
+20678,South,Corporate
+20679,Central,Consumer
+20680,Central,Consumer
+20681,East,Small Business
+20682,West,Corporate
+20683,South,Small Business
+20684,West,Consumer
+20685,East,Consumer
+20686,South,Consumer
+20687,East,Small Business
+20688,Central,Small Business
+20689,West,Consumer
+20690,South,Corporate
+20691,East,Consumer
+20692,East,Consumer
+20693,East,Small Business
+20694,West,Corporate
+20695,South,Consumer
+20696,North,Consumer
+20697,North,Consumer
+20698,West,Small Business
+20699,Central,Consumer
+20700,Central,Consumer
+20701,North,Consumer
+20702,West,Corporate
+20703,Central,Consumer
+20704,Central,Consumer
+20705,East,Consumer
+20706,South,Consumer
+20707,North,Corporate
+20708,Central,Small Business
+20709,South,Small Business
+20710,West,Consumer
+20711,Central,Consumer
+20712,West,Consumer
+20713,East,Consumer
+20714,South,Consumer
+20715,Central,Consumer
+20716,West,Small Business
+20717,Central,Consumer
+20718,Central,Corporate
+20719,West,Consumer
+20720,East,Consumer
+20721,Central,Consumer
+20722,South,Consumer
+20723,South,Small Business
+20724,West,Corporate
+20725,Central,Consumer
+20726,Central,Consumer
+20727,West,Corporate
+20728,East,Consumer
+20729,East,Small Business
+20730,West,Corporate
+20731,East,Consumer
+20732,Central,Consumer
+20733,Central,Small Business
+20734,Central,Small Business
+20735,South,Consumer
+20736,South,Corporate
+20737,East,Small Business
+20738,Central,Consumer
+20739,Central,Consumer
+20740,Central,Corporate
+20741,Central,Corporate
+20742,North,Consumer
+20743,North,Consumer
+20744,Central,Consumer
+20745,South,Consumer
+20746,Central,Consumer
+20747,Central,Corporate
+20748,North,Consumer
+20749,East,Consumer
+20750,East,Corporate
+20751,Central,Consumer
+20752,Central,Consumer
+20753,West,Consumer
+20754,East,Consumer
+20755,South,Consumer
+20756,South,Consumer
+20757,South,Consumer
+20758,West,Consumer
+20759,East,Small Business
+20760,South,Consumer
+20761,Central,Corporate
+20762,East,Small Business
+20763,North,Consumer
+20764,Central,Small Business
+20765,South,Consumer
+20766,East,Consumer
+20767,South,Consumer
+20768,Central,Small Business
+20769,South,Consumer
+20770,West,Consumer
+20771,North,Small Business
+20772,Central,Corporate
+20773,East,Corporate
+20774,Central,Corporate
+20775,Central,Consumer
+20776,South,Consumer
+20777,Central,Consumer
+20778,East,Consumer
+20779,West,Corporate
+20780,South,Corporate
+20781,South,Small Business
+20782,West,Small Business
+20783,West,Corporate
+20784,South,Consumer
+20785,West,Consumer
+20786,East,Corporate
+20787,Central,Consumer
+20788,Central,Consumer
+20789,Central,Small Business
+20790,North,Corporate
+20791,Central,Small Business
+20792,West,Consumer
+20793,North,Consumer
+20794,Central,Consumer
+20795,East,Consumer
+20796,South,Consumer
+20797,Central,Consumer
+20798,West,Small Business
+20799,South,Small Business
+20800,North,Consumer
+20801,West,Consumer
+20802,East,Consumer
+20803,West,Consumer
+20804,East,Small Business
+20805,East,Consumer
+20806,West,Consumer
+20807,West,Corporate
+20808,South,Consumer
+20809,North,Consumer
+20810,West,Consumer
+20811,North,Corporate
+20812,South,Corporate
+20813,West,Consumer
+20814,West,Consumer
+20815,Central,Consumer
+20816,South,Consumer
+20817,East,Small Business
+20818,East,Small Business
+20819,Central,Corporate
+20820,West,Consumer
+20821,East,Consumer
+20822,Central,Consumer
+20823,East,Consumer
+20824,North,Small Business
+20825,West,Consumer
+20826,Central,Corporate
+20827,Central,Consumer
+20828,North,Consumer
+20829,Central,Consumer
+20830,South,Corporate
+20831,Central,Consumer
+20832,Central,Consumer
+20833,West,Consumer
+20834,South,Consumer
+20835,Central,Consumer
+20836,Central,Consumer
+20837,Central,Consumer
+20838,Central,Consumer
+20839,East,Small Business
+20840,West,Small Business
+20841,Central,Corporate
+20842,East,Consumer
+20843,East,Consumer
+20844,East,Corporate
+20845,West,Corporate
+20846,West,Consumer
+20847,South,Consumer
+20848,Central,Consumer
+20849,South,Consumer
+20850,West,Consumer
+20851,North,Corporate
+20852,Central,Corporate
+20853,Central,Consumer
+20854,West,Small Business
+20855,West,Consumer
+20856,South,Consumer
+20857,Central,Consumer
+20858,South,Corporate
+20859,Central,Consumer
+20860,Central,Consumer
+20861,Central,Small Business
+20862,Central,Consumer
+20863,Central,Small Business
+20864,Central,Consumer
+20865,East,Consumer
+20866,Central,Consumer
+20867,West,Consumer
+20868,South,Consumer
+20869,Central,Consumer
+20870,North,Corporate
+20871,South,Consumer
+20872,Central,Corporate
+20873,Central,Consumer
+20874,Central,Consumer
+20875,West,Consumer
+20876,Central,Consumer
+20877,South,Small Business
+20878,Central,Consumer
+20879,South,Consumer
+20880,Central,Consumer
+20881,South,Consumer
+20882,West,Small Business
+20883,West,Consumer
+20884,South,Corporate
+20885,Central,Consumer
+20886,West,Corporate
+20887,South,Small Business
+20888,Central,Small Business
+20889,East,Small Business
+20890,South,Consumer
+20891,East,Small Business
+20892,North,Consumer
+20893,North,Consumer
+20894,North,Consumer
+20895,North,Consumer
+20896,North,Consumer
+20897,West,Small Business
+20898,Central,Small Business
+20899,Central,Small Business
+20900,East,Small Business
+20901,East,Consumer
+20902,South,Consumer
+20903,Central,Small Business
+20904,Central,Consumer
+20905,South,Consumer
+20906,West,Consumer
+20907,West,Consumer
+20908,East,Consumer
+20909,North,Consumer
+20910,East,Consumer
+20911,West,Consumer
+20912,West,Consumer
+20913,South,Consumer
+20914,Central,Consumer
+20915,East,Consumer
+20916,Central,Small Business
+20917,Central,Small Business
+20918,East,Consumer
+20919,Central,Consumer
+20920,East,Consumer
+20921,East,Consumer
+20922,West,Consumer
+20923,East,Corporate
+20924,West,Small Business
+20925,West,Consumer
+20926,South,Consumer
+20927,West,Consumer
+20928,Central,Small Business
+20929,West,Consumer
+20930,Central,Corporate
+20931,East,Small Business
+20932,West,Consumer
+20933,Central,Consumer
+20934,East,Consumer
+20935,East,Consumer
+20936,South,Corporate
+20937,Central,Small Business
+20938,East,Consumer
+20939,East,Consumer
+20940,Central,Consumer
+20941,South,Corporate
+20942,East,Consumer
+20943,West,Consumer
+20944,East,Corporate
+20945,West,Consumer
+20946,Central,Small Business
+20947,West,Corporate
+20948,North,Consumer
+20949,West,Consumer
+20950,South,Consumer
+20951,East,Consumer
+20952,South,Corporate
+20953,North,Small Business
+20954,Central,Small Business
+20955,West,Consumer
+20956,East,Small Business
+20957,East,Consumer
+20958,East,Consumer
+20959,Central,Consumer
+20960,South,Small Business
+20961,West,Corporate
+20962,Central,Small Business
+20963,Central,Consumer
+20964,West,Corporate
+20965,East,Corporate
+20966,Central,Small Business
+20967,West,Small Business
+20968,North,Consumer
+20969,Central,Small Business
+20970,Central,Corporate
+20971,West,Small Business
+20972,Central,Corporate
+20973,West,Consumer
+20974,Central,Consumer
+20975,Central,Corporate
+20976,West,Corporate
+20977,South,Consumer
+20978,Central,Corporate
+20979,West,Consumer
+20980,North,Consumer
+20981,North,Consumer
+20982,South,Corporate
+20983,West,Corporate
+20984,East,Consumer
+20985,Central,Corporate
+20986,West,Consumer
+20987,Central,Corporate
+20988,Central,Corporate
+20989,West,Small Business
+20990,East,Consumer
+20991,Central,Consumer
+20992,North,Consumer
+20993,South,Consumer
+20994,South,Consumer
+20995,West,Small Business
+20996,North,Consumer
+20997,South,Small Business
+20998,Central,Consumer
+20999,West,Consumer
+21000,West,Consumer
+21001,South,Small Business
+21002,Central,Consumer
+21003,Central,Consumer
+21004,Central,Small Business
+21005,Central,Consumer
+21006,North,Consumer
+21007,North,Consumer
+21008,Central,Consumer
+21009,North,Consumer
+21010,South,Small Business
+21011,Central,Corporate
+21012,Central,Consumer
+21013,West,Small Business
+21014,East,Consumer
+21015,Central,Small Business
+21016,North,Small Business
+21017,Central,Corporate
+21018,Central,Consumer
+21019,Central,Consumer
+21020,North,Consumer
+21021,South,Consumer
+21022,South,Consumer
+21023,North,Consumer
+21024,North,Small Business
+21025,North,Small Business
+21026,Central,Consumer
+21027,Central,Small Business
+21028,Central,Consumer
+21029,South,Consumer
+21030,North,Consumer
+21031,Central,Consumer
+21032,Central,Consumer
+21033,West,Consumer
+21034,East,Consumer
+21035,Central,Consumer
+21036,South,Corporate
+21037,Central,Consumer
+21038,Central,Consumer
+21039,Central,Small Business
+21040,South,Consumer
+21041,Central,Consumer
+21042,North,Small Business
+21043,East,Corporate
+21044,Central,Consumer
+21045,South,Small Business
+21046,Central,Small Business
+21047,South,Consumer
+21048,West,Consumer
+21049,Central,Small Business
+21050,North,Small Business
+21051,North,Consumer
+21052,East,Corporate
+21053,Central,Consumer
+21054,Central,Small Business
+21055,Central,Consumer
+21056,West,Consumer
+21057,South,Consumer
+21058,South,Consumer
+21059,Central,Consumer
+21060,North,Consumer
+21061,East,Consumer
+21062,South,Corporate
+21063,East,Small Business
+21064,South,Corporate
+21065,South,Consumer
+21066,East,Consumer
+21067,South,Consumer
+21068,West,Consumer
+21069,Central,Consumer
+21070,Central,Consumer
+21071,North,Corporate
+21072,North,Consumer
+21073,Central,Consumer
+21074,Central,Corporate
+21075,West,Consumer
+21076,South,Consumer
+21077,Central,Consumer
+21078,East,Consumer
+21079,West,Small Business
+21080,Central,Corporate
+21081,Central,Consumer
+21082,East,Small Business
+21083,North,Consumer
+21084,Central,Small Business
+21085,Central,Small Business
+21086,Central,Consumer
+21087,West,Small Business
+21088,South,Corporate
+21089,North,Small Business
+21090,Central,Consumer
+21091,East,Consumer
+21092,South,Consumer
+21093,West,Consumer
+21094,Central,Consumer
+21095,East,Consumer
+21096,West,Corporate
+21097,Central,Consumer
+21098,East,Small Business
+21099,North,Corporate
+21100,Central,Consumer
+21101,North,Consumer
+21102,West,Small Business
+21103,North,Corporate
+21104,South,Consumer
+21105,South,Consumer
+21106,East,Small Business
+21107,Central,Consumer
+21108,Central,Consumer
+21109,West,Consumer
+21110,Central,Small Business
+21111,North,Consumer
+21112,East,Consumer
+21113,Central,Consumer
+21114,Central,Corporate
+21115,Central,Consumer
+21116,West,Consumer
+21117,North,Corporate
+21118,West,Consumer
+21119,Central,Corporate
+21120,Central,Consumer
+21121,West,Consumer
+21122,North,Small Business
+21123,South,Consumer
+21124,East,Consumer
+21125,Central,Consumer
+21126,South,Small Business
+21127,West,Consumer
+21128,North,Consumer
+21129,Central,Consumer
+21130,Central,Corporate
+21131,South,Consumer
+21132,Central,Consumer
+21133,Central,Corporate
+21134,Central,Consumer
+21135,South,Consumer
+21136,East,Consumer
+21137,West,Small Business
+21138,South,Corporate
+21139,Central,Small Business
+21140,Central,Consumer
+21141,Central,Small Business
+21142,South,Consumer
+21143,West,Corporate
+21144,Central,Consumer
+21145,South,Consumer
+21146,West,Small Business
+21147,South,Consumer
+21148,East,Small Business
+21149,Central,Consumer
+21150,West,Consumer
+21151,Central,Small Business
+21152,Central,Consumer
+21153,Central,Consumer
+21154,Central,Small Business
+21155,Central,Small Business
+21156,East,Consumer
+21157,South,Consumer
+21158,West,Consumer
+21159,West,Small Business
+21160,East,Small Business
+21161,Central,Consumer
+21162,Central,Corporate
+21163,West,Consumer
+21164,West,Small Business
+21165,Central,Consumer
+21166,South,Consumer
+21167,North,Consumer
+21168,East,Consumer
+21169,West,Consumer
+21170,East,Consumer
+21171,North,Consumer
+21172,Central,Corporate
+21173,West,Small Business
+21174,West,Consumer
+21175,North,Consumer
+21176,Central,Corporate
+21177,Central,Consumer
+21178,South,Corporate
+21179,Central,Consumer
+21180,Central,Corporate
+21181,South,Small Business
+21182,South,Consumer
+21183,South,Consumer
+21184,West,Consumer
+21185,North,Small Business
+21186,South,Consumer
+21187,East,Small Business
+21188,Central,Small Business
+21189,Central,Small Business
+21190,North,Consumer
+21191,South,Corporate
+21192,West,Consumer
+21193,South,Small Business
+21194,West,Consumer
+21195,South,Consumer
+21196,North,Corporate
+21197,West,Consumer
+21198,Central,Small Business
+21199,West,Consumer
+21200,South,Consumer
+21201,East,Small Business
+21202,Central,Consumer
+21203,Central,Consumer
+21204,Central,Consumer
+21205,Central,Consumer
+21206,East,Consumer
+21207,South,Consumer
+21208,South,Consumer
+21209,West,Small Business
+21210,Central,Small Business
+21211,North,Small Business
+21212,North,Consumer
+21213,East,Consumer
+21214,Central,Small Business
+21215,Central,Consumer
+21216,East,Consumer
+21217,West,Consumer
+21218,West,Small Business
+21219,Central,Small Business
+21220,Central,Consumer
+21221,Central,Consumer
+21222,West,Consumer
+21223,East,Small Business
+21224,West,Consumer
+21225,East,Consumer
+21226,South,Consumer
+21227,Central,Small Business
+21228,West,Consumer
+21229,East,Consumer
+21230,East,Consumer
+21231,Central,Small Business
+21232,East,Corporate
+21233,North,Consumer
+21234,South,Small Business
+21235,South,Consumer
+21236,Central,Small Business
+21237,South,Small Business
+21238,South,Small Business
+21239,East,Consumer
+21240,East,Consumer
+21241,Central,Consumer
+21242,Central,Consumer
+21243,Central,Small Business
+21244,Central,Small Business
+21245,South,Consumer
+21246,North,Consumer
+21247,Central,Consumer
+21248,Central,Corporate
+21249,West,Small Business
+21250,West,Corporate
+21251,West,Consumer
+21252,Central,Consumer
+21253,North,Small Business
+21254,East,Corporate
+21255,East,Consumer
+21256,East,Consumer
+21257,East,Small Business
+21258,South,Small Business
+21259,East,Small Business
+21260,East,Small Business
+21261,South,Corporate
+21262,Central,Consumer
+21263,Central,Small Business
+21264,West,Small Business
+21265,South,Consumer
+21266,North,Corporate
+21267,Central,Consumer
+21268,Central,Small Business
+21269,East,Consumer
+21270,Central,Consumer
+21271,West,Consumer
+21272,South,Consumer
+21273,Central,Consumer
+21274,North,Small Business
+21275,West,Consumer
+21276,South,Small Business
+21277,East,Corporate
+21278,East,Consumer
+21279,West,Consumer
+21280,West,Consumer
+21281,Central,Consumer
+21282,West,Small Business
+21283,South,Consumer
+21284,North,Small Business
+21285,West,Consumer
+21286,North,Small Business
+21287,West,Small Business
+21288,West,Corporate
+21289,West,Consumer
+21290,North,Consumer
+21291,Central,Consumer
+21292,West,Consumer
+21293,North,Small Business
+21294,East,Consumer
+21295,East,Consumer
+21296,East,Consumer
+21297,South,Corporate
+21298,East,Consumer
+21299,Central,Consumer
+21300,South,Consumer
+21301,East,Consumer
+21302,Central,Consumer
+21303,West,Consumer
+21304,South,Consumer
+21305,Central,Small Business
+21306,Central,Corporate
+21307,Central,Consumer
+21308,West,Small Business
+21309,West,Consumer
+21310,East,Consumer
+21311,West,Consumer
+21312,West,Consumer
+21313,North,Consumer
+21314,Central,Consumer
+21315,North,Consumer
+21316,Central,Consumer
+21317,West,Small Business
+21318,North,Corporate
+21319,West,Consumer
+21320,East,Consumer
+21321,North,Consumer
+21322,Central,Corporate
+21323,Central,Small Business
+21324,West,Consumer
+21325,Central,Consumer
+21326,Central,Consumer
+21327,South,Consumer
+21328,North,Consumer
+21329,Central,Consumer
+21330,South,Small Business
+21331,North,Small Business
+21332,West,Consumer
+21333,North,Consumer
+21334,West,Small Business
+21335,Central,Corporate
+21336,South,Corporate
+21337,West,Consumer
+21338,Central,Consumer
+21339,Central,Corporate
+21340,South,Consumer
+21341,South,Consumer
+21342,East,Small Business
+21343,West,Consumer
+21344,Central,Small Business
+21345,Central,Corporate
+21346,Central,Consumer
+21347,North,Consumer
+21348,Central,Consumer
+21349,Central,Consumer
+21350,West,Consumer
+21351,South,Small Business
+21352,Central,Consumer
+21353,Central,Small Business
+21354,North,Corporate
+21355,Central,Consumer
+21356,Central,Consumer
+21357,Central,Small Business
+21358,South,Corporate
+21359,South,Consumer
+21360,West,Small Business
+21361,North,Corporate
+21362,South,Small Business
+21363,South,Consumer
+21364,Central,Corporate
+21365,Central,Consumer
+21366,West,Small Business
+21367,Central,Small Business
+21368,Central,Consumer
+21369,Central,Small Business
+21370,Central,Small Business
+21371,East,Small Business
+21372,South,Consumer
+21373,Central,Consumer
+21374,West,Consumer
+21375,Central,Small Business
+21376,East,Small Business
+21377,East,Small Business
+21378,South,Corporate
+21379,Central,Consumer
+21380,East,Consumer
+21381,Central,Consumer
+21382,Central,Small Business
+21383,West,Consumer
+21384,West,Consumer
+21385,Central,Consumer
+21386,West,Consumer
+21387,East,Consumer
+21388,West,Small Business
+21389,Central,Consumer
+21390,North,Consumer
+21391,East,Consumer
+21392,North,Small Business
+21393,East,Consumer
+21394,Central,Consumer
+21395,Central,Consumer
+21396,Central,Consumer
+21397,Central,Corporate
+21398,East,Consumer
+21399,Central,Consumer
+21400,West,Consumer
+21401,West,Small Business
+21402,North,Corporate
+21403,South,Consumer
+21404,South,Small Business
+21405,Central,Small Business
+21406,West,Consumer
+21407,Central,Consumer
+21408,Central,Consumer
+21409,South,Consumer
+21410,Central,Consumer
+21411,Central,Consumer
+21412,South,Consumer
+21413,West,Consumer
+21414,West,Small Business
+21415,South,Small Business
+21416,West,Small Business
+21417,North,Small Business
+21418,South,Consumer
+21419,North,Small Business
+21420,West,Consumer
+21421,East,Consumer
+21422,West,Consumer
+21423,South,Consumer
+21424,Central,Small Business
+21425,Central,Consumer
+21426,Central,Consumer
+21427,South,Corporate
+21428,Central,Consumer
+21429,Central,Consumer
+21430,Central,Consumer
+21431,East,Consumer
+21432,Central,Consumer
+21433,South,Consumer
+21434,East,Consumer
+21435,Central,Consumer
+21436,Central,Consumer
+21437,South,Consumer
+21438,West,Consumer
+21439,East,Consumer
+21440,West,Consumer
+21441,Central,Consumer
+21442,Central,Consumer
+21443,South,Consumer
+21444,Central,Consumer
+21445,Central,Consumer
+21446,West,Consumer
+21447,West,Small Business
+21448,Central,Consumer
+21449,South,Small Business
+21450,East,Small Business
+21451,South,Small Business
+21452,West,Small Business
+21453,West,Consumer
+21454,North,Small Business
+21455,West,Consumer
+21456,Central,Small Business
+21457,South,Consumer
+21458,North,Corporate
+21459,East,Consumer
+21460,South,Small Business
+21461,Central,Consumer
+21462,West,Consumer
+21463,North,Small Business
+21464,West,Small Business
+21465,Central,Consumer
+21466,North,Consumer
+21467,South,Corporate
+21468,Central,Consumer
+21469,South,Consumer
+21470,East,Consumer
+21471,Central,Consumer
+21472,North,Small Business
+21473,West,Consumer
+21474,Central,Small Business
+21475,Central,Consumer
+21476,South,Consumer
+21477,East,Consumer
+21478,West,Consumer
+21479,East,Corporate
+21480,East,Consumer
+21481,South,Consumer
+21482,Central,Small Business
+21483,Central,Consumer
+21484,West,Small Business
+21485,West,Small Business
+21486,Central,Consumer
+21487,West,Small Business
+21488,Central,Corporate
+21489,South,Consumer
+21490,North,Consumer
+21491,West,Corporate
+21492,West,Consumer
+21493,West,Consumer
+21494,Central,Consumer
+21495,North,Small Business
+21496,Central,Corporate
+21497,South,Consumer
+21498,Central,Small Business
+21499,East,Consumer
+21500,Central,Small Business
+21501,Central,Consumer
+21502,North,Small Business
+21503,Central,Consumer
+21504,West,Small Business
+21505,East,Consumer
+21506,South,Consumer
+21507,West,Small Business
+21508,Central,Consumer
+21509,North,Consumer
+21510,East,Consumer
+21511,Central,Consumer
+21512,South,Consumer
+21513,West,Corporate
+21514,South,Consumer
+21515,Central,Consumer
+21516,Central,Consumer
+21517,East,Consumer
+21518,North,Corporate
+21519,North,Small Business
+21520,Central,Consumer
+21521,North,Small Business
+21522,North,Consumer
+21523,West,Consumer
+21524,Central,Consumer
+21525,South,Consumer
+21526,East,Small Business
+21527,Central,Consumer
+21528,West,Consumer
+21529,Central,Consumer
+21530,South,Small Business
+21531,North,Consumer
+21532,West,Consumer
+21533,East,Consumer
+21534,West,Consumer
+21535,Central,Consumer
+21536,West,Consumer
+21537,Central,Small Business
+21538,West,Consumer
+21539,Central,Consumer
+21540,West,Consumer
+21541,East,Consumer
+21542,West,Consumer
+21543,Central,Consumer
+21544,Central,Consumer
+21545,Central,Consumer
+21546,Central,Small Business
+21547,South,Consumer
+21548,Central,Consumer
+21549,West,Corporate
+21550,South,Consumer
+21551,South,Consumer
+21552,South,Consumer
+21553,Central,Consumer
+21554,South,Consumer
+21555,North,Consumer
+21556,North,Consumer
+21557,South,Consumer
+21558,Central,Small Business
+21559,Central,Consumer
+21560,North,Small Business
+21561,Central,Small Business
+21562,Central,Small Business
+21563,West,Small Business
+21564,South,Corporate
+21565,Central,Consumer
+21566,South,Consumer
+21567,East,Corporate
+21568,East,Small Business
+21569,North,Small Business
+21570,East,Consumer
+21571,West,Corporate
+21572,Central,Consumer
+21573,Central,Consumer
+21574,Central,Corporate
+21575,Central,Consumer
+21576,South,Corporate
+21577,South,Consumer
+21578,Central,Small Business
+21579,South,Consumer
+21580,Central,Consumer
+21581,Central,Corporate
+21582,Central,Small Business
+21583,Central,Small Business
+21584,West,Consumer
+21585,Central,Consumer
+21586,East,Corporate
+21587,East,Corporate
+21588,Central,Consumer
+21589,West,Corporate
+21590,West,Consumer
+21591,North,Consumer
+21592,Central,Consumer
+21593,South,Small Business
+21594,East,Corporate
+21595,Central,Consumer
+21596,East,Consumer
+21597,West,Consumer
+21598,Central,Corporate
+21599,South,Small Business
+21600,Central,Consumer
+21601,West,Small Business
+21602,Central,Consumer
+21603,North,Consumer
+21604,Central,Small Business
+21605,East,Consumer
+21606,Central,Consumer
+21607,South,Consumer
+21608,Central,Corporate
+21609,South,Consumer
+21610,Central,Consumer
+21611,West,Consumer
+21612,Central,Corporate
+21613,East,Consumer
+21614,South,Corporate
+21615,East,Consumer
+21616,Central,Consumer
+21617,Central,Consumer
+21618,South,Consumer
+21619,South,Small Business
+21620,West,Consumer
+21621,Central,Consumer
+21622,West,Small Business
+21623,South,Consumer
+21624,East,Consumer
+21625,West,Consumer
+21626,Central,Small Business
+21627,Central,Small Business
+21628,South,Corporate
+21629,South,Consumer
+21630,East,Corporate
+21631,Central,Consumer
+21632,South,Consumer
+21633,East,Small Business
+21634,Central,Consumer
+21635,Central,Consumer
+21636,Central,Consumer
+21637,Central,Corporate
+21638,Central,Small Business
+21639,West,Corporate
+21640,South,Small Business
+21641,Central,Small Business
+21642,North,Consumer
+21643,North,Consumer
+21644,South,Consumer
+21645,Central,Consumer
+21646,Central,Consumer
+21647,Central,Consumer
+21648,Central,Corporate
+21649,West,Consumer
+21650,Central,Consumer
+21651,Central,Small Business
+21652,North,Consumer
+21653,West,Consumer
+21654,West,Small Business
+21655,West,Consumer
+21656,South,Consumer
+21657,South,Corporate
+21658,East,Small Business
+21659,Central,Consumer
+21660,South,Consumer
+21661,West,Consumer
+21662,South,Small Business
+21663,East,Consumer
+21664,West,Small Business
+21665,South,Consumer
+21666,Central,Consumer
+21667,East,Consumer
+21668,Central,Consumer
+21669,West,Corporate
+21670,Central,Consumer
+21671,South,Consumer
+21672,North,Consumer
+21673,North,Consumer
+21674,North,Consumer
+21675,West,Consumer
+21676,South,Consumer
+21677,South,Small Business
+21678,South,Consumer
+21679,North,Consumer
+21680,West,Consumer
+21681,South,Consumer
+21682,South,Small Business
+21683,Central,Consumer
+21684,Central,Consumer
+21685,West,Consumer
+21686,West,Consumer
+21687,North,Consumer
+21688,Central,Consumer
+21689,West,Small Business
+21690,East,Corporate
+21691,West,Consumer
+21692,North,Consumer
+21693,South,Consumer
+21694,East,Corporate
+21695,Central,Consumer
+21696,Central,Consumer
+21697,East,Small Business
+21698,South,Small Business
+21699,South,Small Business
+21700,Central,Consumer
+21701,West,Small Business
+21702,South,Consumer
+21703,Central,Consumer
+21704,West,Small Business
+21705,East,Small Business
+21706,East,Consumer
+21707,Central,Small Business
+21708,Central,Consumer
+21709,South,Small Business
+21710,South,Small Business
+21711,East,Small Business
+21712,South,Consumer
+21713,West,Consumer
+21714,West,Consumer
+21715,North,Small Business
+21716,Central,Consumer
+21717,South,Consumer
+21718,South,Consumer
+21719,North,Consumer
+21720,Central,Consumer
+21721,Central,Small Business
+21722,Central,Consumer
+21723,Central,Corporate
+21724,West,Small Business
+21725,South,Small Business
+21726,East,Consumer
+21727,Central,Consumer
+21728,East,Small Business
+21729,North,Consumer
+21730,West,Consumer
+21731,Central,Consumer
+21732,Central,Small Business
+21733,Central,Corporate
+21734,North,Corporate
+21735,North,Corporate
+21736,Central,Consumer
+21737,East,Consumer
+21738,West,Consumer
+21739,Central,Consumer
+21740,North,Consumer
+21741,Central,Consumer
+21742,East,Small Business
+21743,South,Consumer
+21744,East,Small Business
+21745,North,Consumer
+21746,South,Small Business
+21747,Central,Consumer
+21748,Central,Small Business
+21749,South,Consumer
+21750,South,Small Business
+21751,East,Consumer
+21752,West,Consumer
+21753,Central,Small Business
+21754,South,Consumer
+21755,Central,Consumer
+21756,West,Consumer
+21757,Central,Consumer
+21758,North,Small Business
+21759,Central,Consumer
+21760,West,Consumer
+21761,West,Consumer
+21762,Central,Consumer
+21763,Central,Consumer
+21764,Central,Consumer
+21765,East,Consumer
+21766,East,Small Business
+21767,North,Consumer
+21768,West,Consumer
+21769,Central,Consumer
+21770,Central,Small Business
+21771,West,Corporate
+21772,East,Consumer
+21773,Central,Consumer
+21774,West,Corporate
+21775,Central,Corporate
+21776,North,Consumer
+21777,West,Consumer
+21778,South,Consumer
+21779,West,Consumer
+21780,Central,Small Business
+21781,West,Consumer
+21782,West,Small Business
+21783,Central,Consumer
+21784,Central,Consumer
+21785,Central,Small Business
+21786,North,Corporate
+21787,Central,Consumer
+21788,South,Corporate
+21789,Central,Consumer
+21790,East,Consumer
+21791,East,Consumer
+21792,South,Consumer
+21793,East,Small Business
+21794,East,Consumer
+21795,South,Corporate
+21796,North,Consumer
+21797,East,Consumer
+21798,Central,Consumer
+21799,Central,Consumer
+21800,South,Consumer
+21801,Central,Small Business
+21802,Central,Consumer
+21803,South,Consumer
+21804,Central,Small Business
+21805,East,Corporate
+21806,East,Corporate
+21807,South,Consumer
+21808,Central,Consumer
+21809,Central,Consumer
+21810,South,Corporate
+21811,Central,Corporate
+21812,North,Consumer
+21813,Central,Small Business
+21814,South,Consumer
+21815,East,Corporate
+21816,East,Consumer
+21817,Central,Small Business
+21818,Central,Consumer
+21819,West,Consumer
+21820,Central,Consumer
+21821,South,Consumer
+21822,West,Small Business
+21823,North,Consumer
+21824,North,Consumer
+21825,North,Small Business
+21826,Central,Small Business
+21827,North,Consumer
+21828,West,Small Business
+21829,West,Consumer
+21830,South,Small Business
+21831,Central,Small Business
+21832,North,Corporate
+21833,West,Consumer
+21834,South,Small Business
+21835,Central,Consumer
+21836,West,Consumer
+21837,Central,Consumer
+21838,East,Consumer
+21839,Central,Consumer
+21840,Central,Corporate
+21841,South,Corporate
+21842,West,Consumer
+21843,West,Consumer
+21844,Central,Consumer
+21845,South,Corporate
+21846,West,Consumer
+21847,West,Corporate
+21848,South,Consumer
+21849,Central,Consumer
+21850,North,Small Business
+21851,South,Consumer
+21852,Central,Consumer
+21853,East,Corporate
+21854,Central,Small Business
+21855,Central,Consumer
+21856,Central,Consumer
+21857,Central,Small Business
+21858,West,Consumer
+21859,West,Consumer
+21860,Central,Small Business
+21861,East,Consumer
+21862,South,Consumer
+21863,South,Consumer
+21864,Central,Consumer
+21865,East,Consumer
+21866,South,Corporate
+21867,Central,Consumer
+21868,South,Consumer
+21869,Central,Corporate
+21870,Central,Corporate
+21871,Central,Small Business
+21872,North,Consumer
+21873,West,Consumer
+21874,West,Consumer
+21875,West,Consumer
+21876,Central,Consumer
+21877,Central,Consumer
+21878,North,Small Business
+21879,East,Corporate
+21880,South,Consumer
+21881,Central,Small Business
+21882,Central,Consumer
+21883,Central,Consumer
+21884,Central,Small Business
+21885,South,Consumer
+21886,Central,Small Business
+21887,Central,Consumer
+21888,South,Small Business
+21889,Central,Small Business
+21890,Central,Consumer
+21891,East,Small Business
+21892,West,Small Business
+21893,West,Consumer
+21894,Central,Consumer
+21895,East,Consumer
+21896,South,Consumer
+21897,Central,Small Business
+21898,Central,Consumer
+21899,Central,Consumer
+21900,Central,Consumer
+21901,Central,Small Business
+21902,Central,Consumer
+21903,Central,Corporate
+21904,Central,Small Business
+21905,North,Consumer
+21906,East,Small Business
+21907,Central,Consumer
+21908,West,Consumer
+21909,West,Consumer
+21910,South,Consumer
+21911,North,Small Business
+21912,North,Consumer
+21913,East,Consumer
+21914,East,Consumer
+21915,West,Corporate
+21916,East,Consumer
+21917,West,Consumer
+21918,West,Consumer
+21919,Central,Small Business
+21920,North,Consumer
+21921,Central,Small Business
+21922,West,Corporate
+21923,Central,Consumer
+21924,West,Small Business
+21925,Central,Consumer
+21926,Central,Consumer
+21927,East,Consumer
+21928,North,Consumer
+21929,Central,Consumer
+21930,South,Small Business
+21931,Central,Consumer
+21932,Central,Consumer
+21933,Central,Corporate
+21934,East,Corporate
+21935,West,Consumer
+21936,West,Consumer
+21937,South,Small Business
+21938,South,Consumer
+21939,Central,Consumer
+21940,South,Consumer
+21941,South,Small Business
+21942,West,Small Business
+21943,East,Corporate
+21944,West,Corporate
+21945,East,Small Business
+21946,East,Consumer
+21947,Central,Consumer
+21948,Central,Corporate
+21949,North,Consumer
+21950,Central,Consumer
+21951,West,Small Business
+21952,North,Small Business
+21953,Central,Consumer
+21954,North,Consumer
+21955,South,Small Business
+21956,North,Consumer
+21957,Central,Corporate
+21958,North,Consumer
+21959,Central,Small Business
+21960,North,Consumer
+21961,West,Small Business
+21962,East,Corporate
+21963,Central,Consumer
+21964,East,Small Business
+21965,North,Consumer
+21966,West,Consumer
+21967,West,Corporate
+21968,West,Consumer
+21969,Central,Consumer
+21970,Central,Small Business
+21971,Central,Consumer
+21972,Central,Consumer
+21973,South,Consumer
+21974,South,Corporate
+21975,West,Corporate
+21976,East,Small Business
+21977,Central,Consumer
+21978,Central,Small Business
+21979,Central,Small Business
+21980,West,Consumer
+21981,Central,Consumer
+21982,Central,Small Business
+21983,South,Small Business
+21984,Central,Consumer
+21985,East,Consumer
+21986,East,Small Business
+21987,West,Small Business
+21988,South,Corporate
+21989,South,Consumer
+21990,Central,Small Business
+21991,West,Consumer
+21992,Central,Consumer
+21993,South,Corporate
+21994,Central,Consumer
+21995,West,Consumer
+21996,South,Consumer
+21997,Central,Small Business
+21998,Central,Consumer
+21999,Central,Consumer
+22000,East,Small Business
+22001,Central,Consumer
+22002,North,Corporate
+22003,Central,Consumer
+22004,West,Corporate
+22005,West,Consumer
+22006,East,Consumer
+22007,North,Small Business
+22008,North,Consumer
+22009,Central,Corporate
+22010,West,Consumer
+22011,East,Consumer
+22012,North,Small Business
+22013,West,Consumer
+22014,West,Consumer
+22015,West,Consumer
+22016,South,Consumer
+22017,North,Consumer
+22018,South,Consumer
+22019,Central,Corporate
+22020,East,Consumer
+22021,Central,Consumer
+22022,Central,Small Business
+22023,South,Consumer
+22024,South,Corporate
+22025,Central,Consumer
+22026,South,Small Business
+22027,West,Consumer
+22028,South,Small Business
+22029,South,Consumer
+22030,Central,Small Business
+22031,East,Corporate
+22032,East,Consumer
+22033,South,Small Business
+22034,South,Consumer
+22035,West,Small Business
+22036,East,Corporate
+22037,Central,Small Business
+22038,South,Small Business
+22039,North,Corporate
+22040,Central,Small Business
+22041,North,Consumer
+22042,East,Small Business
+22043,Central,Corporate
+22044,Central,Small Business
+22045,South,Consumer
+22046,Central,Corporate
+22047,Central,Corporate
+22048,East,Consumer
+22049,North,Consumer
+22050,Central,Consumer
+22051,South,Corporate
+22052,Central,Consumer
+22053,Central,Consumer
+22054,South,Consumer
+22055,Central,Consumer
+22056,East,Corporate
+22057,Central,Consumer
+22058,Central,Corporate
+22059,West,Small Business
+22060,East,Small Business
+22061,Central,Consumer
+22062,South,Consumer
+22063,West,Small Business
+22064,East,Consumer
+22065,Central,Consumer
+22066,East,Consumer
+22067,Central,Small Business
+22068,West,Consumer
+22069,Central,Consumer
+22070,South,Small Business
+22071,North,Small Business
+22072,North,Consumer
+22073,North,Consumer
+22074,West,Consumer
+22075,North,Consumer
+22076,East,Consumer
+22077,Central,Small Business
+22078,Central,Consumer
+22079,Central,Consumer
+22080,East,Consumer
+22081,South,Consumer
+22082,South,Consumer
+22083,East,Consumer
+22084,North,Small Business
+22085,Central,Consumer
+22086,Central,Consumer
+22087,Central,Consumer
+22088,South,Small Business
+22089,Central,Consumer
+22090,East,Consumer
+22091,South,Consumer
+22092,East,Consumer
+22093,West,Consumer
+22094,South,Small Business
+22095,West,Consumer
+22096,West,Consumer
+22097,North,Consumer
+22098,West,Small Business
+22099,East,Consumer
+22100,West,Small Business
+22101,West,Consumer
+22102,West,Consumer
+22103,Central,Consumer
+22104,Central,Consumer
+22105,South,Consumer
+22106,Central,Consumer
+22107,West,Consumer
+22108,West,Corporate
+22109,Central,Consumer
+22110,West,Consumer
+22111,Central,Small Business
+22112,Central,Small Business
+22113,Central,Consumer
+22114,Central,Corporate
+22115,East,Corporate
+22116,South,Consumer
+22117,Central,Consumer
+22118,East,Consumer
+22119,North,Consumer
+22120,South,Small Business
+22121,West,Consumer
+22122,West,Corporate
+22123,South,Consumer
+22124,South,Small Business
+22125,Central,Small Business
+22126,Central,Consumer
+22127,Central,Corporate
+22128,South,Consumer
+22129,East,Consumer
+22130,Central,Consumer
+22131,East,Small Business
+22132,Central,Consumer
+22133,West,Consumer
+22134,Central,Consumer
+22135,North,Consumer
+22136,West,Small Business
+22137,East,Small Business
+22138,Central,Consumer
+22139,West,Small Business
+22140,East,Consumer
+22141,North,Consumer
+22142,Central,Consumer
+22143,South,Consumer
+22144,Central,Consumer
+22145,Central,Corporate
+22146,South,Consumer
+22147,North,Consumer
+22148,Central,Small Business
+22149,East,Consumer
+22150,Central,Consumer
+22151,North,Small Business
+22152,West,Consumer
+22153,South,Consumer
+22154,South,Consumer
+22155,West,Corporate
+22156,Central,Consumer
+22157,North,Consumer
+22158,Central,Small Business
+22159,Central,Consumer
+22160,North,Consumer
+22161,Central,Consumer
+22162,North,Corporate
+22163,East,Small Business
+22164,North,Small Business
+22165,North,Small Business
+22166,North,Consumer
+22167,Central,Consumer
+22168,South,Consumer
+22169,East,Small Business
+22170,Central,Consumer
+22171,South,Consumer
+22172,South,Small Business
+22173,West,Consumer
+22174,South,Corporate
+22175,Central,Consumer
+22176,North,Consumer
+22177,Central,Consumer
+22178,Central,Consumer
+22179,Central,Consumer
+22180,Central,Consumer
+22181,Central,Small Business
+22182,Central,Consumer
+22183,North,Consumer
+22184,Central,Consumer
+22185,South,Consumer
+22186,Central,Consumer
+22187,West,Consumer
+22188,Central,Small Business
+22189,West,Consumer
+22190,Central,Consumer
+22191,East,Consumer
+22192,West,Corporate
+22193,East,Small Business
+22194,Central,Consumer
+22195,South,Consumer
+22196,Central,Consumer
+22197,North,Small Business
+22198,East,Corporate
+22199,North,Consumer
+22200,South,Small Business
+22201,South,Small Business
+22202,Central,Small Business
+22203,Central,Consumer
+22204,East,Corporate
+22205,West,Small Business
+22206,East,Consumer
+22207,South,Consumer
+22208,Central,Small Business
+22209,North,Consumer
+22210,Central,Small Business
+22211,East,Small Business
+22212,Central,Consumer
+22213,North,Consumer
+22214,East,Small Business
+22215,Central,Corporate
+22216,West,Consumer
+22217,South,Small Business
+22218,North,Small Business
+22219,Central,Consumer
+22220,West,Consumer
+22221,Central,Corporate
+22222,West,Consumer
+22223,South,Consumer
+22224,Central,Corporate
+22225,South,Consumer
+22226,West,Consumer
+22227,North,Consumer
+22228,West,Consumer
+22229,East,Small Business
+22230,West,Corporate
+22231,Central,Consumer
+22232,North,Corporate
+22233,East,Consumer
+22234,Central,Corporate
+22235,Central,Corporate
+22236,Central,Consumer
+22237,West,Consumer
+22238,Central,Consumer
+22239,North,Corporate
+22240,South,Consumer
+22241,East,Consumer
+22242,South,Consumer
+22243,East,Consumer
+22244,Central,Small Business
+22245,East,Consumer
+22246,Central,Corporate
+22247,Central,Consumer
+22248,East,Small Business
+22249,South,Consumer
+22250,North,Corporate
+22251,West,Small Business
+22252,West,Small Business
+22253,North,Consumer
+22254,West,Consumer
+22255,South,Corporate
+22256,East,Consumer
+22257,East,Consumer
+22258,South,Small Business
+22259,West,Small Business
+22260,Central,Corporate
+22261,West,Small Business
+22262,East,Small Business
+22263,South,Consumer
+22264,North,Consumer
+22265,West,Corporate
+22266,Central,Corporate
+22267,Central,Corporate
+22268,East,Small Business
+22269,Central,Consumer
+22270,West,Consumer
+22271,Central,Consumer
+22272,Central,Consumer
+22273,Central,Consumer
+22274,West,Consumer
+22275,Central,Consumer
+22276,Central,Consumer
+22277,West,Consumer
+22278,East,Small Business
+22279,West,Small Business
+22280,South,Consumer
+22281,North,Consumer
+22282,West,Consumer
+22283,Central,Consumer
+22284,Central,Consumer
+22285,West,Small Business
+22286,East,Consumer
+22287,East,Consumer
+22288,North,Small Business
+22289,East,Consumer
+22290,Central,Small Business
+22291,Central,Consumer
+22292,South,Small Business
+22293,West,Consumer
+22294,Central,Consumer
+22295,South,Consumer
+22296,Central,Small Business
+22297,East,Consumer
+22298,South,Consumer
+22299,East,Small Business
+22300,South,Consumer
+22301,West,Consumer
+22302,East,Consumer
+22303,North,Consumer
+22304,Central,Consumer
+22305,Central,Consumer
+22306,North,Consumer
+22307,Central,Consumer
+22308,East,Corporate
+22309,South,Consumer
+22310,South,Consumer
+22311,Central,Consumer
+22312,East,Consumer
+22313,Central,Consumer
+22314,South,Consumer
+22315,East,Corporate
+22316,Central,Corporate
+22317,West,Consumer
+22318,West,Consumer
+22319,South,Consumer
+22320,Central,Small Business
+22321,West,Consumer
+22322,East,Small Business
+22323,Central,Small Business
+22324,Central,Small Business
+22325,Central,Consumer
+22326,East,Consumer
+22327,South,Consumer
+22328,South,Consumer
+22329,Central,Consumer
+22330,Central,Consumer
+22331,South,Small Business
+22332,Central,Consumer
+22333,South,Consumer
+22334,Central,Consumer
+22335,West,Consumer
+22336,Central,Small Business
+22337,East,Consumer
+22338,East,Small Business
+22339,Central,Consumer
+22340,South,Small Business
+22341,Central,Consumer
+22342,South,Consumer
+22343,South,Consumer
+22344,West,Consumer
+22345,South,Consumer
+22346,Central,Consumer
+22347,South,Consumer
+22348,East,Consumer
+22349,Central,Consumer
+22350,Central,Consumer
+22351,Central,Consumer
+22352,West,Corporate
+22353,East,Consumer
+22354,Central,Consumer
+22355,Central,Consumer
+22356,East,Consumer
+22357,West,Consumer
+22358,Central,Consumer
+22359,West,Consumer
+22360,Central,Small Business
+22361,West,Small Business
+22362,Central,Consumer
+22363,South,Consumer
+22364,South,Consumer
+22365,North,Small Business
+22366,South,Corporate
+22367,East,Small Business
+22368,South,Consumer
+22369,Central,Small Business
+22370,Central,Consumer
+22371,Central,Small Business
+22372,West,Small Business
+22373,Central,Consumer
+22374,Central,Consumer
+22375,East,Consumer
+22376,West,Small Business
+22377,North,Consumer
+22378,South,Consumer
+22379,North,Consumer
+22380,South,Small Business
+22381,East,Consumer
+22382,West,Consumer
+22383,South,Small Business
+22384,Central,Consumer
+22385,Central,Small Business
+22386,South,Consumer
+22387,Central,Small Business
+22388,East,Consumer
+22389,South,Consumer
+22390,Central,Small Business
+22391,Central,Small Business
+22392,Central,Consumer
+22393,South,Small Business
+22394,North,Consumer
+22395,South,Small Business
+22396,North,Consumer
+22397,West,Consumer
+22398,North,Consumer
+22399,Central,Small Business
+22400,Central,Small Business
+22401,West,Consumer
+22402,South,Corporate
+22403,Central,Consumer
+22404,North,Consumer
+22405,Central,Consumer
+22406,Central,Consumer
+22407,West,Consumer
+22408,North,Corporate
+22409,North,Corporate
+22410,North,Corporate
+22411,West,Small Business
+22412,West,Small Business
+22413,North,Consumer
+22414,South,Consumer
+22415,South,Consumer
+22416,Central,Corporate
+22417,West,Consumer
+22418,Central,Consumer
+22419,Central,Consumer
+22420,East,Small Business
+22421,South,Corporate
+22422,North,Small Business
+22423,West,Small Business
+22424,North,Small Business
+22425,North,Small Business
+22426,West,Consumer
+22427,North,Consumer
+22428,South,Small Business
+22429,Central,Corporate
+22430,West,Consumer
+22431,North,Consumer
+22432,South,Small Business
+22433,North,Consumer
+22434,South,Consumer
+22435,South,Corporate
+22436,East,Small Business
+22437,East,Consumer
+22438,Central,Corporate
+22439,East,Consumer
+22440,North,Small Business
+22441,North,Consumer
+22442,West,Consumer
+22443,South,Consumer
+22444,West,Consumer
+22445,North,Consumer
+22446,West,Small Business
+22447,South,Consumer
+22448,Central,Corporate
+22449,South,Consumer
+22450,West,Consumer
+22451,Central,Consumer
+22452,West,Consumer
+22453,East,Corporate
+22454,South,Consumer
+22455,Central,Consumer
+22456,Central,Consumer
+22457,Central,Small Business
+22458,Central,Consumer
+22459,North,Consumer
+22460,Central,Consumer
+22461,South,Small Business
+22462,East,Corporate
+22463,North,Consumer
+22464,South,Consumer
+22465,South,Consumer
+22466,East,Consumer
+22467,Central,Small Business
+22468,East,Consumer
+22469,West,Consumer
+22470,North,Consumer
+22471,West,Consumer
+22472,East,Consumer
+22473,East,Small Business
+22474,North,Small Business
+22475,East,Corporate
+22476,West,Consumer
+22477,Central,Consumer
+22478,Central,Consumer
+22479,North,Consumer
+22480,South,Consumer
+22481,East,Consumer
+22482,Central,Small Business
+22483,Central,Small Business
+22484,West,Consumer
+22485,North,Small Business
+22486,South,Consumer
+22487,North,Consumer
+22488,Central,Small Business
+22489,Central,Small Business
+22490,South,Consumer
+22491,Central,Consumer
+22492,Central,Consumer
+22493,Central,Consumer
+22494,East,Corporate
+22495,South,Consumer
+22496,Central,Small Business
+22497,South,Consumer
+22498,West,Small Business
+22499,East,Consumer
+22500,East,Consumer
+22501,South,Consumer
+22502,North,Corporate
+22503,West,Consumer
+22504,Central,Consumer
+22505,West,Consumer
+22506,Central,Consumer
+22507,West,Small Business
+22508,North,Corporate
+22509,Central,Consumer
+22510,West,Corporate
+22511,East,Consumer
+22512,South,Consumer
+22513,West,Consumer
+22514,West,Consumer
+22515,Central,Consumer
+22516,South,Consumer
+22517,East,Small Business
+22518,Central,Corporate
+22519,South,Consumer
+22520,North,Consumer
+22521,North,Consumer
+22522,Central,Consumer
+22523,Central,Consumer
+22524,East,Consumer
+22525,Central,Corporate
+22526,Central,Consumer
+22527,East,Consumer
+22528,Central,Consumer
+22529,West,Consumer
+22530,East,Consumer
+22531,East,Corporate
+22532,East,Consumer
+22533,East,Consumer
+22534,Central,Consumer
+22535,East,Consumer
+22536,South,Small Business
+22537,Central,Small Business
+22538,East,Consumer
+22539,Central,Corporate
+22540,Central,Consumer
+22541,Central,Small Business
+22542,North,Consumer
+22543,North,Corporate
+22544,Central,Corporate
+22545,West,Consumer
+22546,East,Consumer
+22547,Central,Corporate
+22548,South,Small Business
+22549,East,Consumer
+22550,Central,Consumer
+22551,Central,Consumer
+22552,North,Small Business
+22553,Central,Corporate
+22554,Central,Small Business
+22555,East,Corporate
+22556,Central,Consumer
+22557,North,Consumer
+22558,Central,Consumer
+22559,North,Consumer
+22560,Central,Consumer
+22561,Central,Consumer
+22562,South,Consumer
+22563,North,Consumer
+22564,Central,Consumer
+22565,East,Consumer
+22566,East,Consumer
+22567,South,Consumer
+22568,Central,Consumer
+22569,East,Small Business
+22570,North,Consumer
+22571,South,Small Business
+22572,West,Corporate
+22573,West,Small Business
+22574,North,Consumer
+22575,South,Consumer
+22576,East,Consumer
+22577,South,Consumer
+22578,West,Consumer
+22579,Central,Small Business
+22580,South,Consumer
+22581,Central,Consumer
+22582,North,Small Business
+22583,North,Consumer
+22584,West,Consumer
+22585,Central,Consumer
+22586,Central,Small Business
+22587,Central,Consumer
+22588,North,Consumer
+22589,Central,Small Business
+22590,West,Consumer
+22591,West,Consumer
+22592,Central,Corporate
+22593,South,Consumer
+22594,South,Consumer
+22595,Central,Small Business
+22596,South,Corporate
+22597,West,Consumer
+22598,West,Small Business
+22599,Central,Consumer
+22600,Central,Small Business
+22601,East,Small Business
+22602,East,Consumer
+22603,Central,Small Business
+22604,Central,Consumer
+22605,West,Consumer
+22606,North,Consumer
+22607,West,Consumer
+22608,Central,Consumer
+22609,North,Consumer
+22610,Central,Consumer
+22611,South,Consumer
+22612,West,Small Business
+22613,East,Consumer
+22614,North,Consumer
+22615,Central,Small Business
+22616,East,Small Business
+22617,South,Small Business
+22618,East,Consumer
+22619,West,Small Business
+22620,South,Consumer
+22621,Central,Small Business
+22622,Central,Small Business
+22623,West,Corporate
+22624,West,Corporate
+22625,Central,Consumer
+22626,South,Consumer
+22627,Central,Consumer
+22628,Central,Small Business
+22629,Central,Consumer
+22630,Central,Small Business
+22631,Central,Consumer
+22632,West,Consumer
+22633,East,Consumer
+22634,East,Consumer
+22635,North,Small Business
+22636,East,Small Business
+22637,Central,Consumer
+22638,South,Corporate
+22639,South,Consumer
+22640,North,Consumer
+22641,Central,Corporate
+22642,Central,Corporate
+22643,Central,Consumer
+22644,West,Consumer
+22645,East,Consumer
+22646,Central,Consumer
+22647,West,Consumer
+22648,East,Small Business
+22649,Central,Consumer
+22650,South,Consumer
+22651,Central,Consumer
+22652,Central,Corporate
+22653,South,Small Business
+22654,Central,Consumer
+22655,East,Consumer
+22656,East,Small Business
+22657,Central,Consumer
+22658,Central,Small Business
+22659,Central,Small Business
+22660,North,Small Business
+22661,Central,Consumer
+22662,South,Consumer
+22663,North,Consumer
+22664,Central,Consumer
+22665,West,Consumer
+22666,North,Consumer
+22667,West,Consumer
+22668,West,Consumer
+22669,Central,Small Business
+22670,South,Consumer
+22671,East,Consumer
+22672,Central,Consumer
+22673,South,Consumer
+22674,Central,Consumer
+22675,North,Consumer
+22676,West,Consumer
+22677,West,Consumer
+22678,East,Consumer
+22679,West,Corporate
+22680,East,Consumer
+22681,Central,Small Business
+22682,West,Small Business
+22683,West,Consumer
+22684,Central,Corporate
+22685,Central,Small Business
+22686,North,Consumer
+22687,South,Consumer
+22688,South,Corporate
+22689,East,Small Business
+22690,Central,Consumer
+22691,South,Consumer
+22692,Central,Small Business
+22693,East,Consumer
+22694,North,Consumer
+22695,Central,Consumer
+22696,Central,Consumer
+22697,Central,Consumer
+22698,Central,Consumer
+22699,North,Small Business
+22700,Central,Consumer
+22701,South,Consumer
+22702,Central,Consumer
+22703,South,Consumer
+22704,Central,Consumer
+22705,Central,Consumer
+22706,West,Small Business
+22707,East,Small Business
+22708,North,Consumer
+22709,South,Corporate
+22710,North,Consumer
+22711,North,Consumer
+22712,Central,Consumer
+22713,South,Corporate
+22714,Central,Small Business
+22715,North,Consumer
+22716,North,Consumer
+22717,West,Consumer
+22718,West,Consumer
+22719,Central,Consumer
+22720,South,Consumer
+22721,Central,Consumer
+22722,Central,Consumer
+22723,Central,Consumer
+22724,Central,Consumer
+22725,East,Small Business
+22726,West,Small Business
+22727,South,Small Business
+22728,Central,Consumer
+22729,East,Consumer
+22730,Central,Consumer
+22731,Central,Small Business
+22732,East,Corporate
+22733,South,Corporate
+22734,West,Corporate
+22735,East,Small Business
+22736,North,Consumer
+22737,Central,Consumer
+22738,Central,Small Business
+22739,Central,Corporate
+22740,West,Consumer
+22741,Central,Small Business
+22742,Central,Consumer
+22743,West,Consumer
+22744,East,Consumer
+22745,West,Corporate
+22746,Central,Small Business
+22747,Central,Corporate
+22748,West,Consumer
+22749,West,Consumer
+22750,Central,Consumer
+22751,East,Consumer
+22752,South,Small Business
+22753,South,Corporate
+22754,North,Consumer
+22755,Central,Small Business
+22756,South,Corporate
+22757,North,Consumer
+22758,Central,Small Business
+22759,Central,Corporate
+22760,East,Small Business
+22761,East,Consumer
+22762,Central,Consumer
+22763,Central,Small Business
+22764,West,Small Business
+22765,South,Small Business
+22766,North,Corporate
+22767,Central,Small Business
+22768,East,Consumer
+22769,Central,Corporate
+22770,West,Small Business
+22771,North,Corporate
+22772,Central,Consumer
+22773,West,Corporate
+22774,East,Corporate
+22775,West,Small Business
+22776,South,Small Business
+22777,West,Consumer
+22778,Central,Consumer
+22779,Central,Small Business
+22780,East,Small Business
+22781,South,Small Business
+22782,North,Consumer
+22783,South,Consumer
+22784,North,Consumer
+22785,East,Consumer
+22786,Central,Small Business
+22787,Central,Consumer
+22788,Central,Consumer
+22789,East,Consumer
+22790,Central,Consumer
+22791,East,Consumer
+22792,Central,Consumer
+22793,Central,Consumer
+22794,West,Corporate
+22795,North,Small Business
+22796,West,Small Business
+22797,South,Consumer
+22798,West,Consumer
+22799,South,Consumer
+22800,West,Consumer
+22801,South,Corporate
+22802,North,Corporate
+22803,West,Corporate
+22804,Central,Small Business
+22805,Central,Consumer
+22806,Central,Small Business
+22807,West,Consumer
+22808,South,Consumer
+22809,Central,Consumer
+22810,West,Consumer
+22811,Central,Consumer
+22812,Central,Consumer
+22813,Central,Consumer
+22814,South,Consumer
+22815,Central,Corporate
+22816,South,Consumer
+22817,East,Consumer
+22818,North,Small Business
+22819,East,Small Business
+22820,Central,Consumer
+22821,South,Small Business
+22822,East,Consumer
+22823,South,Consumer
+22824,West,Small Business
+22825,South,Consumer
+22826,Central,Consumer
+22827,East,Consumer
+22828,Central,Consumer
+22829,West,Consumer
+22830,Central,Corporate
+22831,South,Consumer
+22832,South,Consumer
+22833,West,Consumer
+22834,West,Consumer
+22835,Central,Consumer
+22836,Central,Small Business
+22837,West,Consumer
+22838,North,Consumer
+22839,North,Corporate
+22840,Central,Small Business
+22841,South,Corporate
+22842,Central,Small Business
+22843,Central,Small Business
+22844,South,Corporate
+22845,North,Consumer
+22846,South,Corporate
+22847,Central,Consumer
+22848,Central,Corporate
+22849,North,Small Business
+22850,East,Small Business
+22851,Central,Consumer
+22852,Central,Consumer
+22853,West,Consumer
+22854,West,Consumer
+22855,North,Corporate
+22856,West,Consumer
+22857,West,Corporate
+22858,Central,Consumer
+22859,South,Consumer
+22860,Central,Consumer
+22861,South,Consumer
+22862,North,Consumer
+22863,South,Small Business
+22864,East,Consumer
+22865,West,Consumer
+22866,South,Corporate
+22867,Central,Consumer
+22868,Central,Consumer
+22869,South,Consumer
+22870,East,Consumer
+22871,Central,Consumer
+22872,East,Consumer
+22873,South,Consumer
+22874,North,Small Business
+22875,West,Small Business
+22876,East,Consumer
+22877,Central,Consumer
+22878,East,Corporate
+22879,Central,Corporate
+22880,West,Consumer
+22881,West,Small Business
+22882,South,Consumer
+22883,South,Consumer
+22884,East,Consumer
+22885,West,Consumer
+22886,East,Consumer
+22887,Central,Small Business
+22888,North,Consumer
+22889,Central,Consumer
+22890,Central,Corporate
+22891,East,Consumer
+22892,South,Consumer
+22893,West,Consumer
+22894,Central,Consumer
+22895,South,Small Business
+22896,East,Small Business
+22897,North,Consumer
+22898,South,Consumer
+22899,Central,Small Business
+22900,West,Small Business
+22901,Central,Consumer
+22902,South,Consumer
+22903,Central,Small Business
+22904,North,Consumer
+22905,South,Corporate
+22906,North,Small Business
+22907,Central,Consumer
+22908,South,Consumer
+22909,Central,Corporate
+22910,North,Corporate
+22911,Central,Consumer
+22912,Central,Consumer
+22913,South,Small Business
+22914,East,Consumer
+22915,East,Small Business
+22916,Central,Consumer
+22917,South,Consumer
+22918,East,Corporate
+22919,North,Consumer
+22920,West,Corporate
+22921,Central,Small Business
+22922,East,Consumer
+22923,South,Small Business
+22924,South,Corporate
+22925,South,Small Business
+22926,East,Corporate
+22927,Central,Consumer
+22928,Central,Consumer
+22929,South,Consumer
+22930,East,Corporate
+22931,East,Corporate
+22932,Central,Small Business
+22933,Central,Small Business
+22934,West,Consumer
+22935,South,Consumer
+22936,South,Small Business
+22937,West,Consumer
+22938,Central,Consumer
+22939,North,Consumer
+22940,South,Consumer
+22941,West,Consumer
+22942,South,Corporate
+22943,West,Consumer
+22944,South,Consumer
+22945,South,Small Business
+22946,Central,Consumer
+22947,South,Consumer
+22948,South,Consumer
+22949,North,Consumer
+22950,West,Consumer
+22951,Central,Consumer
+22952,West,Corporate
+22953,East,Consumer
+22954,Central,Consumer
+22955,North,Small Business
+22956,East,Small Business
+22957,Central,Consumer
+22958,Central,Consumer
+22959,West,Small Business
+22960,North,Corporate
+22961,Central,Consumer
+22962,North,Consumer
+22963,East,Corporate
+22964,Central,Small Business
+22965,North,Consumer
+22966,North,Consumer
+22967,East,Small Business
+22968,Central,Consumer
+22969,East,Consumer
+22970,North,Consumer
+22971,North,Consumer
+22972,West,Consumer
+22973,South,Small Business
+22974,Central,Consumer
+22975,West,Consumer
+22976,Central,Consumer
+22977,East,Consumer
+22978,East,Consumer
+22979,South,Consumer
+22980,Central,Consumer
+22981,Central,Consumer
+22982,East,Consumer
+22983,Central,Small Business
+22984,South,Consumer
+22985,West,Consumer
+22986,Central,Small Business
+22987,North,Corporate
+22988,West,Consumer
+22989,South,Small Business
+22990,North,Consumer
+22991,North,Consumer
+22992,Central,Small Business
+22993,South,Small Business
+22994,Central,Consumer
+22995,South,Small Business
+22996,Central,Small Business
+22997,Central,Consumer
+22998,South,Consumer
+22999,Central,Small Business
+23000,South,Small Business
+23001,Central,Consumer
+23002,East,Consumer
+23003,Central,Consumer
+23004,Central,Consumer
+23005,West,Consumer
+23006,East,Small Business
+23007,Central,Small Business
+23008,Central,Corporate
+23009,South,Consumer
+23010,North,Corporate
+23011,Central,Consumer
+23012,Central,Corporate
+23013,East,Consumer
+23014,Central,Consumer
+23015,West,Small Business
+23016,West,Corporate
+23017,Central,Consumer
+23018,West,Small Business
+23019,West,Consumer
+23020,South,Small Business
+23021,Central,Consumer
+23022,East,Corporate
+23023,East,Consumer
+23024,North,Small Business
+23025,Central,Small Business
+23026,South,Consumer
+23027,East,Consumer
+23028,East,Consumer
+23029,Central,Consumer
+23030,South,Small Business
+23031,North,Small Business
+23032,Central,Consumer
+23033,Central,Consumer
+23034,Central,Corporate
+23035,Central,Consumer
+23036,West,Small Business
+23037,South,Consumer
+23038,East,Small Business
+23039,West,Consumer
+23040,Central,Consumer
+23041,South,Consumer
+23042,Central,Corporate
+23043,Central,Small Business
+23044,East,Corporate
+23045,Central,Small Business
+23046,South,Small Business
+23047,East,Small Business
+23048,South,Consumer
+23049,North,Small Business
+23050,Central,Small Business
+23051,Central,Small Business
+23052,East,Small Business
+23053,West,Consumer
+23054,East,Corporate
+23055,West,Consumer
+23056,South,Consumer
+23057,Central,Consumer
+23058,East,Consumer
+23059,Central,Consumer
+23060,North,Small Business
+23061,West,Consumer
+23062,West,Corporate
+23063,West,Consumer
+23064,North,Consumer
+23065,Central,Consumer
+23066,South,Consumer
+23067,East,Consumer
+23068,Central,Small Business
+23069,South,Small Business
+23070,Central,Consumer
+23071,West,Consumer
+23072,South,Small Business
+23073,West,Small Business
+23074,Central,Corporate
+23075,West,Corporate
+23076,Central,Consumer
+23077,North,Corporate
+23078,West,Consumer
+23079,South,Corporate
+23080,East,Small Business
+23081,West,Consumer
+23082,South,Consumer
+23083,North,Consumer
+23084,West,Consumer
+23085,West,Consumer
+23086,South,Consumer
+23087,Central,Consumer
+23088,Central,Consumer
+23089,South,Small Business
+23090,East,Consumer
+23091,West,Consumer
+23092,West,Small Business
+23093,Central,Small Business
+23094,Central,Consumer
+23095,East,Consumer
+23096,Central,Consumer
+23097,West,Consumer
+23098,West,Consumer
+23099,South,Small Business
+23100,Central,Consumer
+23101,Central,Consumer
+23102,East,Consumer
+23103,South,Consumer
+23104,East,Consumer
+23105,Central,Small Business
+23106,Central,Consumer
+23107,West,Consumer
+23108,Central,Corporate
+23109,South,Consumer
+23110,North,Small Business
+23111,Central,Consumer
+23112,Central,Consumer
+23113,South,Consumer
+23114,Central,Consumer
+23115,West,Small Business
+23116,Central,Consumer
+23117,Central,Corporate
+23118,West,Corporate
+23119,East,Consumer
+23120,Central,Small Business
+23121,East,Small Business
+23122,North,Consumer
+23123,Central,Consumer
+23124,North,Corporate
+23125,South,Consumer
+23126,Central,Consumer
+23127,West,Consumer
+23128,Central,Consumer
+23129,East,Consumer
+23130,North,Small Business
+23131,East,Small Business
+23132,North,Consumer
+23133,Central,Consumer
+23134,North,Small Business
+23135,North,Small Business
+23136,North,Small Business
+23137,West,Consumer
+23138,South,Consumer
+23139,East,Consumer
+23140,South,Small Business
+23141,South,Consumer
+23142,Central,Small Business
+23143,West,Consumer
+23144,West,Small Business
+23145,Central,Small Business
+23146,Central,Consumer
+23147,Central,Consumer
+23148,South,Consumer
+23149,South,Consumer
+23150,North,Consumer
+23151,Central,Consumer
+23152,Central,Consumer
+23153,Central,Small Business
+23154,North,Consumer
+23155,South,Consumer
+23156,East,Small Business
+23157,South,Consumer
+23158,South,Small Business
+23159,North,Consumer
+23160,North,Corporate
+23161,South,Consumer
+23162,South,Consumer
+23163,Central,Consumer
+23164,West,Consumer
+23165,West,Consumer
+23166,East,Consumer
+23167,East,Small Business
+23168,Central,Corporate
+23169,North,Consumer
+23170,Central,Small Business
+23171,West,Small Business
+23172,East,Consumer
+23173,South,Consumer
+23174,Central,Consumer
+23175,North,Consumer
+23176,Central,Small Business
+23177,Central,Consumer
+23178,Central,Small Business
+23179,Central,Corporate
+23180,East,Consumer
+23181,Central,Consumer
+23182,Central,Consumer
+23183,Central,Corporate
+23184,North,Corporate
+23185,Central,Small Business
+23186,Central,Consumer
+23187,East,Consumer
+23188,West,Small Business
+23189,Central,Corporate
+23190,Central,Corporate
+23191,North,Small Business
+23192,North,Consumer
+23193,Central,Consumer
+23194,North,Corporate
+23195,East,Consumer
+23196,West,Consumer
+23197,Central,Small Business
+23198,West,Consumer
+23199,North,Consumer
+23200,West,Corporate
+23201,North,Small Business
+23202,West,Consumer
+23203,West,Corporate
+23204,West,Consumer
+23205,East,Consumer
+23206,West,Consumer
+23207,South,Small Business
+23208,West,Consumer
+23209,North,Consumer
+23210,West,Consumer
+23211,Central,Consumer
+23212,South,Consumer
+23213,West,Small Business
+23214,South,Small Business
+23215,West,Consumer
+23216,Central,Small Business
+23217,West,Consumer
+23218,South,Consumer
+23219,North,Small Business
+23220,Central,Small Business
+23221,Central,Consumer
+23222,Central,Consumer
+23223,South,Consumer
+23224,Central,Consumer
+23225,South,Consumer
+23226,Central,Consumer
+23227,South,Consumer
+23228,South,Small Business
+23229,Central,Consumer
+23230,North,Consumer
+23231,North,Small Business
+23232,Central,Consumer
+23233,North,Small Business
+23234,South,Consumer
+23235,West,Consumer
+23236,East,Small Business
+23237,West,Consumer
+23238,South,Small Business
+23239,Central,Consumer
+23240,North,Small Business
+23241,East,Small Business
+23242,East,Small Business
+23243,West,Corporate
+23244,Central,Corporate
+23245,Central,Consumer
+23246,East,Consumer
+23247,West,Consumer
+23248,South,Consumer
+23249,North,Consumer
+23250,Central,Consumer
+23251,South,Consumer
+23252,West,Small Business
+23253,Central,Consumer
+23254,South,Corporate
+23255,North,Corporate
+23256,East,Small Business
+23257,West,Corporate
+23258,East,Consumer
+23259,North,Consumer
+23260,Central,Consumer
+23261,West,Consumer
+23262,North,Small Business
+23263,South,Consumer
+23264,West,Corporate
+23265,South,Consumer
+23266,West,Corporate
+23267,Central,Small Business
+23268,Central,Consumer
+23269,Central,Small Business
+23270,South,Corporate
+23271,West,Consumer
+23272,West,Consumer
+23273,South,Consumer
+23274,West,Small Business
+23275,South,Consumer
+23276,Central,Consumer
+23277,West,Consumer
+23278,South,Consumer
+23279,South,Small Business
+23280,West,Consumer
+23281,Central,Consumer
+23282,Central,Consumer
+23283,West,Consumer
+23284,Central,Consumer
+23285,Central,Consumer
+23286,East,Consumer
+23287,East,Consumer
+23288,North,Consumer
+23289,Central,Consumer
+23290,West,Consumer
+23291,West,Corporate
+23292,North,Small Business
+23293,West,Consumer
+23294,Central,Consumer
+23295,North,Consumer
+23296,Central,Small Business
+23297,East,Corporate
+23298,North,Consumer
+23299,Central,Small Business
+23300,Central,Consumer
+23301,Central,Small Business
+23302,Central,Corporate
+23303,South,Consumer
+23304,Central,Consumer
+23305,West,Small Business
+23306,South,Consumer
+23307,East,Consumer
+23308,West,Consumer
+23309,West,Consumer
+23310,Central,Consumer
+23311,North,Consumer
+23312,East,Consumer
+23313,West,Consumer
+23314,South,Small Business
+23315,South,Consumer
+23316,North,Consumer
+23317,West,Corporate
+23318,East,Corporate
+23319,West,Small Business
+23320,East,Consumer
+23321,West,Consumer
+23322,West,Consumer
+23323,South,Corporate
+23324,South,Small Business
+23325,North,Corporate
+23326,South,Consumer
+23327,South,Corporate
+23328,South,Small Business
+23329,Central,Corporate
+23330,North,Small Business
+23331,South,Small Business
+23332,South,Consumer
+23333,Central,Consumer
+23334,West,Consumer
+23335,East,Consumer
+23336,Central,Small Business
+23337,East,Consumer
+23338,Central,Corporate
+23339,Central,Small Business
+23340,West,Small Business
+23341,East,Corporate
+23342,West,Consumer
+23343,Central,Consumer
+23344,Central,Consumer
+23345,East,Consumer
+23346,Central,Corporate
+23347,Central,Consumer
+23348,West,Consumer
+23349,Central,Small Business
+23350,South,Small Business
+23351,East,Small Business
+23352,West,Corporate
+23353,North,Consumer
+23354,South,Small Business
+23355,Central,Corporate
+23356,East,Consumer
+23357,South,Consumer
+23358,West,Consumer
+23359,East,Small Business
+23360,South,Consumer
+23361,Central,Small Business
+23362,East,Consumer
+23363,Central,Consumer
+23364,Central,Small Business
+23365,Central,Consumer
+23366,East,Corporate
+23367,South,Corporate
+23368,West,Consumer
+23369,Central,Consumer
+23370,North,Small Business
+23371,Central,Consumer
+23372,Central,Consumer
+23373,West,Consumer
+23374,Central,Consumer
+23375,East,Consumer
+23376,West,Consumer
+23377,South,Small Business
+23378,North,Small Business
+23379,North,Small Business
+23380,Central,Consumer
+23381,West,Small Business
+23382,South,Consumer
+23383,Central,Small Business
+23384,East,Consumer
+23385,North,Consumer
+23386,West,Consumer
+23387,North,Consumer
+23388,Central,Consumer
+23389,East,Consumer
+23390,West,Consumer
+23391,Central,Small Business
+23392,North,Consumer
+23393,East,Consumer
+23394,West,Corporate
+23395,West,Small Business
+23396,West,Small Business
+23397,Central,Consumer
+23398,West,Consumer
+23399,East,Consumer
+23400,Central,Corporate
+23401,East,Small Business
+23402,East,Small Business
+23403,North,Small Business
+23404,East,Consumer
+23405,Central,Small Business
+23406,West,Corporate
+23407,North,Consumer
+23408,South,Consumer
+23409,East,Consumer
+23410,South,Small Business
+23411,East,Consumer
+23412,Central,Corporate
+23413,West,Small Business
+23414,Central,Consumer
+23415,Central,Consumer
+23416,East,Consumer
+23417,South,Consumer
+23418,Central,Consumer
+23419,South,Consumer
+23420,South,Consumer
+23421,East,Consumer
+23422,Central,Consumer
+23423,Central,Consumer
+23424,West,Corporate
+23425,North,Corporate
+23426,West,Consumer
+23427,Central,Consumer
+23428,South,Consumer
+23429,Central,Corporate
+23430,North,Small Business
+23431,East,Consumer
+23432,Central,Consumer
+23433,Central,Corporate
+23434,West,Consumer
+23435,Central,Consumer
+23436,South,Consumer
+23437,South,Consumer
+23438,East,Consumer
+23439,Central,Consumer
+23440,East,Consumer
+23441,West,Consumer
+23442,East,Consumer
+23443,North,Consumer
+23444,Central,Consumer
+23445,East,Consumer
+23446,North,Consumer
+23447,South,Consumer
+23448,North,Small Business
+23449,Central,Consumer
+23450,Central,Consumer
+23451,East,Corporate
+23452,South,Consumer
+23453,South,Consumer
+23454,Central,Consumer
+23455,East,Consumer
+23456,East,Consumer
+23457,Central,Consumer
+23458,West,Consumer
+23459,East,Small Business
+23460,East,Consumer
+23461,West,Consumer
+23462,South,Small Business
+23463,Central,Corporate
+23464,South,Small Business
+23465,East,Corporate
+23466,Central,Consumer
+23467,Central,Consumer
+23468,West,Consumer
+23469,East,Consumer
+23470,Central,Consumer
+23471,Central,Small Business
+23472,North,Consumer
+23473,East,Consumer
+23474,Central,Corporate
+23475,Central,Consumer
+23476,East,Consumer
+23477,North,Small Business
+23478,South,Consumer
+23479,North,Corporate
+23480,South,Consumer
+23481,South,Consumer
+23482,Central,Small Business
+23483,Central,Small Business
+23484,Central,Consumer
+23485,Central,Small Business
+23486,Central,Consumer
+23487,East,Corporate
+23488,Central,Small Business
+23489,East,Consumer
+23490,East,Consumer
+23491,North,Consumer
+23492,Central,Small Business
+23493,East,Small Business
+23494,West,Consumer
+23495,Central,Consumer
+23496,Central,Consumer
+23497,East,Consumer
+23498,West,Corporate
+23499,Central,Consumer
+23500,Central,Small Business
+23501,West,Corporate
+23502,East,Consumer
+23503,South,Corporate
+23504,Central,Consumer
+23505,Central,Small Business
+23506,West,Consumer
+23507,Central,Small Business
+23508,Central,Consumer
+23509,Central,Consumer
+23510,South,Consumer
+23511,South,Small Business
+23512,East,Consumer
+23513,Central,Corporate
+23514,East,Small Business
+23515,South,Consumer
+23516,East,Consumer
+23517,Central,Consumer
+23518,Central,Consumer
+23519,North,Small Business
+23520,Central,Corporate
+23521,Central,Consumer
+23522,North,Consumer
+23523,South,Small Business
+23524,South,Consumer
+23525,Central,Consumer
+23526,West,Consumer
+23527,Central,Small Business
+23528,West,Consumer
+23529,Central,Consumer
+23530,Central,Consumer
+23531,South,Corporate
+23532,Central,Small Business
+23533,Central,Small Business
+23534,East,Consumer
+23535,North,Consumer
+23536,West,Consumer
+23537,West,Small Business
+23538,Central,Consumer
+23539,North,Consumer
+23540,South,Consumer
+23541,West,Consumer
+23542,East,Small Business
+23543,Central,Corporate
+23544,West,Consumer
+23545,North,Consumer
+23546,North,Small Business
+23547,Central,Consumer
+23548,East,Small Business
+23549,South,Corporate
+23550,South,Consumer
+23551,East,Consumer
+23552,Central,Consumer
+23553,West,Consumer
+23554,North,Consumer
+23555,South,Consumer
+23556,West,Consumer
+23557,Central,Consumer
+23558,East,Small Business
+23559,South,Corporate
+23560,South,Corporate
+23561,North,Consumer
+23562,Central,Small Business
+23563,South,Consumer
+23564,West,Small Business
+23565,Central,Consumer
+23566,Central,Consumer
+23567,West,Consumer
+23568,South,Corporate
+23569,South,Consumer
+23570,North,Small Business
+23571,Central,Consumer
+23572,South,Small Business
+23573,Central,Consumer
+23574,West,Small Business
+23575,North,Small Business
+23576,South,Consumer
+23577,South,Small Business
+23578,West,Consumer
+23579,West,Corporate
+23580,Central,Consumer
+23581,Central,Consumer
+23582,Central,Small Business
+23583,West,Small Business
+23584,Central,Consumer
+23585,West,Corporate
+23586,North,Corporate
+23587,North,Consumer
+23588,South,Small Business
+23589,South,Consumer
+23590,Central,Consumer
+23591,North,Small Business
+23592,West,Consumer
+23593,South,Consumer
+23594,Central,Small Business
+23595,East,Consumer
+23596,East,Corporate
+23597,North,Corporate
+23598,North,Consumer
+23599,East,Corporate
+23600,Central,Small Business
+23601,West,Consumer
+23602,West,Consumer
+23603,South,Corporate
+23604,Central,Consumer
+23605,Central,Consumer
+23606,North,Consumer
+23607,South,Consumer
+23608,North,Consumer
+23609,West,Consumer
+23610,Central,Consumer
+23611,South,Corporate
+23612,Central,Consumer
+23613,North,Consumer
+23614,North,Consumer
+23615,South,Small Business
+23616,West,Small Business
+23617,North,Small Business
+23618,South,Corporate
+23619,East,Consumer
+23620,Central,Consumer
+23621,South,Corporate
+23622,Central,Small Business
+23623,West,Small Business
+23624,Central,Small Business
+23625,East,Consumer
+23626,Central,Consumer
+23627,East,Consumer
+23628,West,Small Business
+23629,Central,Consumer
+23630,West,Corporate
+23631,Central,Consumer
+23632,Central,Small Business
+23633,South,Consumer
+23634,South,Consumer
+23635,Central,Small Business
+23636,East,Consumer
+23637,South,Consumer
+23638,South,Small Business
+23639,South,Consumer
+23640,North,Consumer
+23641,Central,Small Business
+23642,South,Consumer
+23643,West,Small Business
+23644,East,Small Business
+23645,Central,Small Business
+23646,West,Corporate
+23647,Central,Consumer
+23648,Central,Consumer
+23649,Central,Consumer
+23650,East,Corporate
+23651,West,Small Business
+23652,Central,Consumer
+23653,East,Consumer
+23654,Central,Small Business
+23655,North,Small Business
+23656,Central,Small Business
+23657,North,Small Business
+23658,Central,Consumer
+23659,East,Consumer
+23660,Central,Consumer
+23661,Central,Consumer
+23662,Central,Corporate
+23663,South,Consumer
+23664,Central,Consumer
+23665,West,Corporate
+23666,North,Small Business
+23667,East,Consumer
+23668,Central,Consumer
+23669,North,Consumer
+23670,East,Consumer
+23671,North,Small Business
+23672,North,Small Business
+23673,Central,Consumer
+23674,South,Consumer
+23675,Central,Small Business
+23676,South,Consumer
+23677,East,Small Business
+23678,South,Corporate
+23679,Central,Small Business
+23680,South,Small Business
+23681,West,Small Business
+23682,South,Consumer
+23683,Central,Small Business
+23684,North,Small Business
+23685,South,Small Business
+23686,North,Consumer
+23687,East,Consumer
+23688,East,Consumer
+23689,West,Small Business
+23690,East,Consumer
+23691,East,Consumer
+23692,North,Consumer
+23693,North,Consumer
+23694,Central,Consumer
+23695,Central,Consumer
+23696,Central,Corporate
+23697,Central,Consumer
+23698,Central,Small Business
+23699,Central,Consumer
+23700,South,Small Business
+23701,East,Corporate
+23702,Central,Corporate
+23703,South,Consumer
+23704,South,Consumer
+23705,South,Consumer
+23706,Central,Corporate
+23707,West,Small Business
+23708,North,Corporate
+23709,West,Consumer
+23710,North,Consumer
+23711,East,Consumer
+23712,West,Consumer
+23713,East,Small Business
+23714,North,Small Business
+23715,Central,Consumer
+23716,North,Consumer
+23717,Central,Consumer
+23718,Central,Consumer
+23719,North,Consumer
+23720,Central,Consumer
+23721,Central,Consumer
+23722,Central,Small Business
+23723,South,Small Business
+23724,East,Consumer
+23725,Central,Consumer
+23726,Central,Small Business
+23727,West,Consumer
+23728,South,Consumer
+23729,East,Consumer
+23730,Central,Consumer
+23731,East,Consumer
+23732,Central,Consumer
+23733,Central,Consumer
+23734,North,Consumer
+23735,East,Small Business
+23736,Central,Consumer
+23737,South,Consumer
+23738,West,Consumer
+23739,East,Consumer
+23740,West,Consumer
+23741,Central,Corporate
+23742,West,Consumer
+23743,West,Small Business
+23744,East,Consumer
+23745,Central,Consumer
+23746,South,Consumer
+23747,North,Consumer
+23748,West,Consumer
+23749,Central,Small Business
+23750,Central,Consumer
+23751,Central,Consumer
+23752,West,Consumer
+23753,South,Small Business
+23754,Central,Consumer
+23755,South,Small Business
+23756,South,Consumer
+23757,Central,Consumer
+23758,Central,Small Business
+23759,South,Consumer
+23760,Central,Consumer
+23761,West,Consumer
+23762,Central,Corporate
+23763,Central,Consumer
+23764,Central,Small Business
+23765,South,Consumer
+23766,Central,Small Business
+23767,North,Small Business
+23768,West,Consumer
+23769,East,Consumer
+23770,South,Consumer
+23771,Central,Consumer
+23772,West,Corporate
+23773,Central,Consumer
+23774,Central,Consumer
+23775,South,Consumer
+23776,Central,Small Business
+23777,North,Consumer
+23778,North,Consumer
+23779,Central,Small Business
+23780,South,Consumer
+23781,West,Small Business
+23782,Central,Small Business
+23783,North,Small Business
+23784,North,Corporate
+23785,South,Consumer
+23786,West,Consumer
+23787,Central,Small Business
+23788,Central,Consumer
+23789,West,Consumer
+23790,North,Consumer
+23791,South,Consumer
+23792,West,Small Business
+23793,East,Consumer
+23794,West,Small Business
+23795,Central,Consumer
+23796,Central,Consumer
+23797,South,Small Business
+23798,South,Corporate
+23799,Central,Consumer
+23800,North,Small Business
+23801,East,Consumer
+23802,South,Consumer
+23803,East,Consumer
+23804,Central,Consumer
+23805,South,Consumer
+23806,Central,Small Business
+23807,West,Corporate
+23808,Central,Consumer
+23809,East,Consumer
+23810,Central,Consumer
+23811,South,Consumer
+23812,West,Consumer
+23813,North,Corporate
+23814,East,Consumer
+23815,Central,Consumer
+23816,Central,Small Business
+23817,West,Small Business
+23818,South,Consumer
+23819,South,Small Business
+23820,South,Small Business
+23821,West,Consumer
+23822,South,Consumer
+23823,Central,Consumer
+23824,Central,Corporate
+23825,Central,Corporate
+23826,East,Small Business
+23827,East,Consumer
+23828,North,Consumer
+23829,West,Consumer
+23830,Central,Small Business
+23831,West,Small Business
+23832,North,Consumer
+23833,South,Consumer
+23834,Central,Consumer
+23835,North,Consumer
+23836,Central,Small Business
+23837,Central,Consumer
+23838,North,Small Business
+23839,Central,Corporate
+23840,Central,Consumer
+23841,Central,Consumer
+23842,North,Consumer
+23843,Central,Consumer
+23844,East,Consumer
+23845,East,Consumer
+23846,Central,Consumer
+23847,North,Corporate
+23848,South,Small Business
+23849,Central,Corporate
+23850,South,Consumer
+23851,North,Consumer
+23852,Central,Consumer
+23853,Central,Consumer
+23854,Central,Small Business
+23855,West,Corporate
+23856,South,Consumer
+23857,Central,Consumer
+23858,South,Consumer
+23859,North,Consumer
+23860,North,Consumer
+23861,Central,Consumer
+23862,South,Consumer
+23863,West,Corporate
+23864,South,Small Business
+23865,Central,Consumer
+23866,Central,Consumer
+23867,Central,Small Business
+23868,East,Consumer
+23869,South,Consumer
+23870,East,Consumer
+23871,Central,Consumer
+23872,East,Consumer
+23873,West,Consumer
+23874,East,Small Business
+23875,Central,Consumer
+23876,East,Corporate
+23877,West,Small Business
+23878,West,Consumer
+23879,Central,Small Business
+23880,Central,Corporate
+23881,East,Consumer
+23882,West,Consumer
+23883,East,Corporate
+23884,Central,Consumer
+23885,South,Small Business
+23886,South,Consumer
+23887,Central,Consumer
+23888,Central,Small Business
+23889,Central,Consumer
+23890,Central,Small Business
+23891,North,Small Business
+23892,Central,Corporate
+23893,South,Consumer
+23894,South,Consumer
+23895,South,Consumer
+23896,South,Small Business
+23897,Central,Consumer
+23898,East,Consumer
+23899,Central,Consumer
+23900,North,Consumer
+23901,East,Consumer
+23902,West,Consumer
+23903,West,Consumer
+23904,West,Consumer
+23905,East,Small Business
+23906,Central,Consumer
+23907,East,Consumer
+23908,East,Small Business
+23909,Central,Small Business
+23910,Central,Consumer
+23911,West,Small Business
+23912,East,Consumer
+23913,South,Small Business
+23914,South,Consumer
+23915,Central,Small Business
+23916,West,Small Business
+23917,South,Consumer
+23918,Central,Corporate
+23919,East,Corporate
+23920,Central,Consumer
+23921,South,Consumer
+23922,West,Consumer
+23923,West,Consumer
+23924,Central,Small Business
+23925,East,Consumer
+23926,Central,Consumer
+23927,West,Small Business
+23928,North,Consumer
+23929,Central,Consumer
+23930,Central,Consumer
+23931,Central,Consumer
+23932,Central,Consumer
+23933,East,Consumer
+23934,Central,Consumer
+23935,South,Consumer
+23936,Central,Consumer
+23937,Central,Small Business
+23938,North,Consumer
+23939,East,Consumer
+23940,Central,Consumer
+23941,West,Consumer
+23942,North,Small Business
+23943,Central,Consumer
+23944,South,Consumer
+23945,North,Consumer
+23946,East,Consumer
+23947,East,Consumer
+23948,South,Consumer
+23949,Central,Corporate
+23950,South,Consumer
+23951,East,Consumer
+23952,West,Consumer
+23953,Central,Consumer
+23954,Central,Small Business
+23955,Central,Consumer
+23956,South,Consumer
+23957,Central,Consumer
+23958,Central,Consumer
+23959,South,Corporate
+23960,South,Small Business
+23961,West,Consumer
+23962,North,Small Business
+23963,West,Consumer
+23964,Central,Small Business
+23965,South,Corporate
+23966,North,Consumer
+23967,East,Consumer
+23968,West,Consumer
+23969,West,Consumer
+23970,East,Consumer
+23971,Central,Consumer
+23972,West,Consumer
+23973,East,Consumer
+23974,East,Consumer
+23975,North,Small Business
+23976,West,Small Business
+23977,Central,Consumer
+23978,South,Consumer
+23979,North,Consumer
+23980,Central,Consumer
+23981,East,Consumer
+23982,East,Corporate
+23983,East,Consumer
+23984,Central,Consumer
+23985,Central,Consumer
+23986,West,Small Business
+23987,Central,Consumer
+23988,South,Consumer
+23989,South,Consumer
+23990,South,Consumer
+23991,South,Small Business
+23992,Central,Small Business
+23993,Central,Consumer
+23994,East,Small Business
+23995,North,Small Business
+23996,Central,Consumer
+23997,Central,Consumer
+23998,North,Small Business
+23999,Central,Corporate
+24000,South,Small Business
