@@ -39,5 +39,3 @@ VAR PreviousRevenue =
 RETURN
     DIVIDE(CurrentRevenue - PreviousRevenue, PreviousRevenue)
 ```
-
-Создай отдельную таблицу календаря `Calendar`, свяжи `Calendar[Date]` с `orders[order_date]` и используй её для временной аналитики.
