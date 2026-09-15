@@ -1,41 +1,53 @@
-# Power BI Dashboard — Sales Analytics
+# Power BI Dashboard
 
-## Рекомендуемая структура страницы
+В проекте разработан интерактивный аналитический dashboard в Power BI для анализа продаж.
 
-### KPI cards
-- Revenue
-- Orders
-- Units Sold
-- Average Order Value
+**Что реализовано:**
 
-### Графики
-1. Revenue by month — line chart
-2. Revenue by category — bar chart
-3. Revenue by region — bar/map chart
-4. Revenue share by category — donut chart
-5. Top 10 products by revenue — horizontal bar chart
+* загрузка и подготовка данных в Power Query;
+* построение модели данных из таблиц `orders`, `products` и `customers`;
+* настройка связей между таблицами;
+* создание DAX measures для расчёта основных KPI;
+* анализ динамики выручки;
+* анализ продаж по категориям, регионам и клиентским сегментам;
+* Top-10 товаров по выручке;
+* интерактивные фильтры по дате, категории, региону и сегменту.
 
-### Фильтры
-- Date
-- Region
-- Customer segment
-- Category
+**Основные KPI:**
 
-## Меры DAX
+* Total Revenue — 9.11M;
+* Total Orders — 12,000;
+* Average Order Value — 758.88;
+* анализ продаж по 30 продуктам.
+
+### DAX
 
 ```DAX
-Revenue = SUM(orders[revenue])
+Total Revenue =
+SUMX(
+    orders,
+    orders[quantity] * orders[unit_price] * (1 - orders[discount])
+)
 
-Orders = DISTINCTCOUNT(orders[order_id])
+Total Orders =
+DISTINCTCOUNT(orders[order_id])
 
-Units Sold = SUM(orders[quantity])
+Units Sold =
+SUM(orders[quantity])
 
-Average Order Value = DIVIDE([Revenue], [Orders])
-
-Revenue MoM % =
-VAR CurrentRevenue = [Revenue]
-VAR PreviousRevenue =
-    CALCULATE([Revenue], DATEADD('Calendar'[Date], -1, MONTH))
-RETURN
-    DIVIDE(CurrentRevenue - PreviousRevenue, PreviousRevenue)
+Average Order Value =
+DIVIDE(
+    [Total Revenue],
+    [Total Orders]
+)
 ```
+
+### Dashboard structure
+
+1. KPI cards — основные показатели продаж.
+2. Revenue Trend — динамика выручки во времени.
+3. Revenue by Category — структура продаж по категориям.
+4. Revenue by Region — сравнение регионов.
+5. Revenue by Segment — анализ клиентских сегментов.
+6. Top-10 Products — наиболее доходные товары.
+7. Slicers — интерактивная фильтрация данных.
