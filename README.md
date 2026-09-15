@@ -217,18 +217,3 @@ psql -d sales_dashboard -f sql/schema.sql
 ```bash
 psql -d sales_dashboard -f sql/analysis.sql
 ```
-
-Инструкция по подготовке набора для Power BI находится в:
-
-```text
-powerbi/README.md
-```
-
-## Что можно улучшить
-
-- добавить план/факт;
-- рассчитать MoM и YoY;
-- добавить retention и repeat purchase rate;
-- добавить RFM-сегментацию;
-- добавить drill-down по товарам и регионам;
-- подключить Power BI к PostgreSQL напрямую.
